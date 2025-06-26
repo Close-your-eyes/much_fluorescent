@@ -1,0 +1,51 @@
+---
+output: github_document
+---
+
+<!-- README.md is generated from README.Rmd. Please edit that file -->
+
+```{r, include = FALSE}
+knitr::opts_chunk$set(
+  collapse = TRUE,
+  comment = "#>"
+)
+```
+
+# much_<span style="color:red;">f</span><span style="color:orange;">l</span><span style="color:gold;">u</span><span style="color:green;">o</span><span style="color:blue;">r</span><span style="color:indigo;">e</span><span style="color:violet;">s</span><span style="color:red;">c</span><span style="color:orange;">e</span><span style="color:green;">n</span><span style="color:blue;">t</span>
+
+
+<!-- badges: start -->
+<!-- badges: end -->
+
+A small repository for spectral data of happy little fluorochromes.
+
+```{r spectrum, echo = FALSE}
+library(ggplot2)
+spec <- vroom::vroom(gzfile("spectra.tsv.gz"), show_col_types = F) |> dplyr::filter(fluorochrome == "PE-Dazzle594")
+maxes <- vroom::vroom("em_ex_maxima.tsv", show_col_types = F)
+pp <- ggplot(spec |>
+         tidyr::pivot_longer(cols = c(em, ex), names_to = "type", values_to = "value") |>
+         tidyr::drop_na(), aes(x = nm, y = value)) +
+  geom_line(aes(linetype = type), color = "white") + # colrr::col_pal("material")[1]
+  colrr::theme_material() +
+  theme(legend.position.inside = c(0.95,0.9), legend.key.size = ggplot2::unit(0, "pt"),
+        legend.key.spacing.y = ggplot2::unit(10, "pt")) +
+  labs(linetype = NULL, y = "norm intensity [%]", title = "PE-Dazzle594") +
+  geom_segment(data = dplyr::filter(maxes, fluorochrome == "PE-Dazzle594"), aes(x = nm, y = 0, yend = norm_intensity, linetype = type), color = "white") +
+  guides(linetype = guide_legend(position = "inside", label.position = "bottom"))
+```
+
+```{r, echo=FALSE}
+pp
+```
+
+See plots of excitation and emission spectra in spectra_images.
+
+All raw data for those are in spectra.tsv.gz and em_ex_maxima.tsv.
+
+```{r, echo=FALSE}
+print(knitr::kable(spec |> tidyr::drop_na() |> dplyr::slice_head(n = 10)))
+print(knitr::kable(dplyr::filter(maxes, fluorochrome == "PE-Dazzle594")))
+
+#dplyr::filter(maxes, fluorochrome == "PE-Dazzle594")# |> gt::gt()
+```
