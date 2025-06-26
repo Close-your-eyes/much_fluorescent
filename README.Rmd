@@ -27,7 +27,7 @@ pp <- ggplot(spec |>
          tidyr::pivot_longer(cols = c(em, ex), names_to = "type", values_to = "value") |>
          tidyr::drop_na(), aes(x = nm, y = value)) +
   geom_line(aes(linetype = type), color = "white") + # colrr::col_pal("material")[1]
-  colrr::theme_material() +
+  colrr::theme_material(bg_color = "#0D1117") +
   theme(legend.position.inside = c(0.95,0.9), legend.key.size = ggplot2::unit(0, "pt"),
         legend.key.spacing.y = ggplot2::unit(10, "pt")) +
   labs(linetype = NULL, y = "norm intensity [%]", title = "PE-Dazzle594") +
