@@ -36,3 +36,12 @@ All raw data for those are in spectra.tsv.gz and em_ex_maxima.tsv.
     #> |PE-Dazzle594 |ex   | 307|             11|
     #> |PE-Dazzle594 |ex   | 495|             56|
     #> |PE-Dazzle594 |ex   | 565|            100|
+
+Peaks were detected by algorithm. This may either be oversensitive and
+detect too many of them or miss some. Plots were checked and only very
+few minor peaks are not detected. In very few spectra lowest emission
+peak is below lowest excitation which should not be according to [Stokes
+shift](https://en.wikipedia.org/wiki/Stokes_shift). Some spectra include
+negative values or values above 100 which is weird but data was left as
+obtained in this case. However, leading and trailing zeros were removed
+for instance.
