@@ -1,1336 +1,1363 @@
 fluorochrome	type	nm	norm_intensity
-1,8-ANS	em	472	100
-1,8-ANS	ex	374	100
+1,8-ANS	em	474	100
+1,8-ANS	ex	375	100
 4-Di-10-ASP	em	591	100
 4-Di-10-ASP	ex	476	100
 7-AAD	em	647	100
 7-AAD	ex	549	100
-7-hydroxy-4-methylcoumarin	em	448	100
+7-hydroxy-4-methylcoumarin	em	449	100
 7-hydroxy-4-methylcoumarin	ex	360	100
-Acridine orange	em	526	100
-Acridine orange	ex	502	100
-Alexa Fluor 647-R-phycoerythrin (R-PE)	em	667	100
-Alexa Fluor 647-R-phycoerythrin (R-PE)	ex	306	11
-Alexa Fluor 647-R-phycoerythrin (R-PE)	ex	497	68
-Alexa Fluor 647-R-phycoerythrin (R-PE)	ex	568	100
-Alexa Fluor 647-R-phycoerythrin (R-PE)	ex	613	27
-Alexa Fluor 647-R-phycoerythrin (R-PE)	ex	654	54
-Alexa Fluor 680-allophycocyanin (APC)	em	703	100
-Alexa Fluor 680-allophycocyanin (APC)	ex	344	21
-Alexa Fluor 680-allophycocyanin (APC)	ex	655	100
-Alexa Fluor Plus405	em	455	100
-Alexa Fluor Plus405	ex	404	100
-Alexa Fluor Plus488	em	518	100
-Alexa Fluor Plus488	ex	314	23
-Alexa Fluor Plus488	ex	493	100
-Alexa Fluor Plus555	em	572	100
-Alexa Fluor Plus555	ex	558	100
-Alexa Fluor Plus594	em	619	100
-Alexa Fluor Plus594	ex	377	12
-Alexa Fluor Plus594	ex	590	100
-Alexa Fluor Plus647	em	674	100
-Alexa Fluor Plus647	ex	658	100
-Alexa Fluor Plus680	em	704	100
-Alexa Fluor Plus680	ex	688	100
-Alexa Fluor Plus750	em	788	100
-Alexa Fluor Plus750	ex	758	100
-Alexa Fluor Plus800	em	794	100
-Alexa Fluor Plus800	ex	788	100
-Alexa Fluor350	em	442	100
-Alexa Fluor350	ex	343	100
-Alexa Fluor405	em	422	100
-Alexa Fluor405	ex	378	76
-Alexa Fluor405	ex	401	100
-Alexa Fluor420	em	511	100
-Alexa Fluor420	ex	427	100
-Alexa Fluor430	em	539	100
-Alexa Fluor430	ex	432	100
-Alexa Fluor488	em	520	100
-Alexa Fluor488	ex	341	15
-Alexa Fluor488	ex	499	100
-Alexa Fluor514	em	542	100
-Alexa Fluor514	ex	321	16
-Alexa Fluor514	ex	518	100
-Alexa Fluor532	em	553	100
-Alexa Fluor532	ex	331	16
-Alexa Fluor532	ex	534	100
-Alexa Fluor546	em	573	100
-Alexa Fluor546	ex	526	33
-Alexa Fluor546	ex	561	100
-Alexa Fluor555	em	568	100
-Alexa Fluor555	ex	521	51
-Alexa Fluor555	ex	553	100
-Alexa Fluor561	em	569	100
-Alexa Fluor561	ex	523	51
-Alexa Fluor561	ex	556	100
-Alexa Fluor568	em	603	100
-Alexa Fluor568	ex	579	100
-Alexa Fluor594	em	619	100
-Alexa Fluor594	ex	377	12
-Alexa Fluor594	ex	590	100
-Alexa Fluor610	em	630	100
-Alexa Fluor610	ex	565	34
-Alexa Fluor610	ex	611	100
-Alexa Fluor633	em	650	100
-Alexa Fluor633	em	708	29
-Alexa Fluor633	ex	581	36
-Alexa Fluor633	ex	632	100
-Alexa Fluor635	em	647	100
-Alexa Fluor635	ex	585	36
-Alexa Fluor635	ex	633	100
-Alexa Fluor647	em	671	100
-Alexa Fluor647	ex	650	100
-Alexa Fluor660	em	691	100
-Alexa Fluor660	ex	334	12
-Alexa Fluor660	ex	663	100
-Alexa Fluor680	em	704	100
-Alexa Fluor680	ex	680	100
-Alexa Fluor700	em	719	100
-Alexa Fluor700	ex	696	100
-Alexa Fluor750	em	776	100
-Alexa Fluor750	ex	752	100
-Alexa Fluor790	em	805	100
-Alexa Fluor790	ex	782	100
-Aluora 430 Dye	em	497	100
-Aluora 430 Dye	ex	426	100
-Aluora 488 Dye	em	518	100
-Aluora 488 Dye	ex	311	11
-Aluora 488 Dye	ex	493	100
-Aluora 514 Dye	em	528	100
-Aluora 514 Dye	ex	315	14
-Aluora 514 Dye	ex	512	100
-Aluora 555 Dye	em	567	100
-Aluora 555 Dye	ex	522	51
-Aluora 555 Dye	ex	553	100
-Aluora 594 Dye	em	615	100
-Aluora 594 Dye	ex	589	100
-Aluora 647 Dye	em	670	100
-Aluora 647 Dye	ex	652	100
-Aluora 700 Dye	em	706	100
-Aluora 700 Dye	ex	685	100
-Aluora 750 Dye	em	782	100
-Aluora 750 Dye	ex	757	100
-AMC (7-amino-4-methylcoumarin)	em	443	100
+AcridineOrange	em	526	100
+AcridineOrange	ex	502	100
+AlexaFluor350	em	442	100
+AlexaFluor350	ex	343	100
+AlexaFluor405	em	423	100
+AlexaFluor405	ex	375	75
+AlexaFluor405	ex	401	100
+AlexaFluor420	em	511	100
+AlexaFluor420	ex	313	19
+AlexaFluor420	ex	427	100
+AlexaFluor430	em	540	100
+AlexaFluor430	ex	433	100
+AlexaFluor488	em	520	100
+AlexaFluor488	ex	312	28
+AlexaFluor488	ex	341	15
+AlexaFluor488	ex	499	100
+AlexaFluor514	em	543	100
+AlexaFluor514	ex	319	16
+AlexaFluor514	ex	518	100
+AlexaFluor532	em	554	100
+AlexaFluor532	ex	329	16
+AlexaFluor532	ex	534	100
+AlexaFluor546	em	574	100
+AlexaFluor546	ex	529	33
+AlexaFluor546	ex	562	100
+AlexaFluor555	em	569	100
+AlexaFluor555	ex	523	51
+AlexaFluor555	ex	553	100
+AlexaFluor561	em	570	95
+AlexaFluor561	ex	524	51
+AlexaFluor561	ex	556	100
+AlexaFluor568	em	603	100
+AlexaFluor568	ex	579	100
+AlexaFluor594	em	619	100
+AlexaFluor594	ex	376	12
+AlexaFluor594	ex	590	100
+AlexaFluor610	em	630	100
+AlexaFluor610	ex	565	34
+AlexaFluor610	ex	611	100
+AlexaFluor633	em	650	100
+AlexaFluor633	ex	582	36
+AlexaFluor633	ex	631	100
+AlexaFluor635	em	647	100
+AlexaFluor635	ex	585	36
+AlexaFluor635	ex	633	100
+AlexaFluor647	em	671	100
+AlexaFluor647	ex	650	100
+AlexaFluor647-PE	em	667	100
+AlexaFluor647-PE	ex	305	12
+AlexaFluor647-PE	ex	498	68
+AlexaFluor647-PE	ex	568	100
+AlexaFluor647-PE	ex	614	27
+AlexaFluor647-PE	ex	654	54
+AlexaFluor660	em	691	100
+AlexaFluor660	ex	332	12
+AlexaFluor660	ex	664	100
+AlexaFluor680	em	704	100
+AlexaFluor680	ex	680	100
+AlexaFluor680-APC	em	704	100
+AlexaFluor680-APC	ex	343	20
+AlexaFluor680-APC	ex	655	100
+AlexaFluor700	em	719	100
+AlexaFluor700	ex	696	100
+AlexaFluor750	em	778	100
+AlexaFluor750	ex	752	100
+AlexaFluor790	em	804	100
+AlexaFluor790	ex	782	100
+AlexaFluorPlus405	em	455	100
+AlexaFluorPlus405	ex	404	100
+AlexaFluorPlus488	em	518	100
+AlexaFluorPlus488	ex	314	23
+AlexaFluorPlus488	ex	493	100
+AlexaFluorPlus555	em	573	100
+AlexaFluorPlus555	ex	558	100
+AlexaFluorPlus594	em	619	100
+AlexaFluorPlus594	ex	376	12
+AlexaFluorPlus594	ex	590	100
+AlexaFluorPlus647	em	674	100
+AlexaFluorPlus647	ex	658	100
+AlexaFluorPlus680	em	704	100
+AlexaFluorPlus680	ex	687	100
+AlexaFluorPlus750	em	788	100
+AlexaFluorPlus750	ex	757	100
+AlexaFluorPlus800	em	793	100
+AlexaFluorPlus800	ex	787	100
+Aluora430	em	498	100
+Aluora430	ex	427	100
+Aluora488	em	519	100
+Aluora488	ex	310	11
+Aluora488	ex	493	100
+Aluora514	em	529	100
+Aluora514	ex	313	14
+Aluora514	ex	512	100
+Aluora555	em	567	100
+Aluora555	ex	524	51
+Aluora555	ex	553	100
+Aluora594	em	615	100
+Aluora594	ex	589	100
+Aluora647	em	671	100
+Aluora647	ex	652	100
+Aluora700	em	707	100
+Aluora700	ex	686	100
+Aluora750	em	782	100
+Aluora750	ex	757	100
+AMC (7-amino-4-methylcoumarin)	em	442	100
 AMC (7-amino-4-methylcoumarin)	ex	346	100
 APC	em	660	100
-APC	ex	651	100
-APC-Alexa Fluor750	em	663	17
-APC-Alexa Fluor750	em	785	100
-APC-Alexa Fluor750	ex	651	89
-APC-Alexa Fluor750	ex	755	100
+APC	ex	650	100
+APC-AlexaFluor750	em	663	17
+APC-AlexaFluor750	em	784	100
+APC-AlexaFluor750	ex	650	89
+APC-AlexaFluor750	ex	754	100
 APC-Cy5.5	em	701	100
 APC-Cy5.5	ex	655	100
-APC-Cy7	em	663	35
+APC-Cy5.5	ex	675	92
+APC-Cy7	em	662	35
 APC-Cy7	em	782	100
-APC-Cy7	ex	364	11
+APC-Cy7	ex	365	11
 APC-Cy7	ex	652	100
-APC-Cy7	ex	756	96
-APC-eFluor780	em	634	28
+APC-Cy7	ex	757	96
+APC-eFluor780	em	635	28
 APC-eFluor780	em	660	31
-APC-eFluor780	em	784	100
-APC-eFluor780	ex	355	12
+APC-eFluor780	em	783	100
+APC-eFluor780	ex	354	12
 APC-eFluor780	ex	650	65
 APC-eFluor780	ex	756	100
-APC-Fire750	em	788	100
+APC-Fire750	em	789	100
 APC-Fire750	ex	652	69
-APC-Fire750	ex	755	100
+APC-Fire750	ex	756	100
 APC-Fire810	em	807	100
 APC-Fire810	ex	650	65
 APC-Fire810	ex	787	100
-APC-H7	em	787	100
-APC-H7	ex	651	44
-APC-H7	ex	760	100
+APC-H7	em	788	100
+APC-H7	ex	650	44
+APC-H7	ex	759	100
 APC-R700	em	712	100
 APC-R700	ex	654	100
 APC-R700	ex	687	99
 APC-Vio770	em	661	11
 APC-Vio770	em	781	100
-APC-Vio770	ex	651	96
+APC-Vio770	ex	650	95
 APC-Vio770	ex	755	100
-APF	em	517	100
+APF	em	518	100
 APF	ex	498	100
-BCECF @ pH 5.2	em	526	100
-BCECF @ pH 5.2	ex	460	84
-BCECF @ pH 5.2	ex	483	100
-BOBO-1	em	484	100
-BOBO-1	ex	311	58
+BCECF@PH5.2	em	525	100
+BCECF@PH5.2	ex	483	100
+BOBO-1	em	485	100
 BOBO-1	ex	461	100
 BOBO-3	em	605	100
-BOBO-3	ex	571	100
-BODIPY 500_510	em	522	100
-BODIPY 500_510	ex	358	23
-BODIPY 500_510	ex	512	100
-BODIPY 581_591	em	522	25
-BODIPY 581_591	em	548	23
-BODIPY 581_591	em	597	100
-BODIPY 581_591	ex	550	36
-BODIPY 581_591	ex	588	100
-BODIPY 630_650	em	641	100
-BODIPY 630_650	ex	625	100
-BODIPY 650_665	em	664	100
-BODIPY 650_665	ex	351	36
-BODIPY 650_665	ex	646	100
-BODIPY FL	em	511	100
-BODIPY FL	ex	502	100
-BODIPY R6G	em	547	100
-BODIPY R6G	ex	528	100
-BODIPY TMR	em	570	100
-BODIPY TMR	ex	544	100
-BODIPY TR	em	621	100
-BODIPY TR	ex	312	29
-BODIPY TR	ex	588	100
-Brilliant Blue515	em	514	100
-Brilliant Blue515	ex	315	47
-Brilliant Blue515	ex	490	100
-Brilliant Blue700	em	695	100
-Brilliant Blue700	ex	325	59
-Brilliant Blue700	ex	476	100
-Brilliant Blue700	ex	672	73
-Brilliant Ultraviolet395	em	399	100
-Brilliant Ultraviolet395	ex	347	100
-Brilliant Ultraviolet496	em	399	13
-Brilliant Ultraviolet496	em	493	100
-Brilliant Ultraviolet496	ex	348	100
-Brilliant Ultraviolet563	em	397	15
-Brilliant Ultraviolet563	em	563	100
-Brilliant Ultraviolet563	ex	349	100
-Brilliant Ultraviolet563	ex	540	22
-Brilliant Ultraviolet615	em	406	18
-Brilliant Ultraviolet615	em	607	100
-Brilliant Ultraviolet615	ex	350	100
-Brilliant Ultraviolet615	ex	589	26
-Brilliant Ultraviolet661	em	399	46
-Brilliant Ultraviolet661	em	659	100
-Brilliant Ultraviolet661	ex	349	100
-Brilliant Ultraviolet661	ex	636	18
-Brilliant Ultraviolet737	em	739	99
-Brilliant Ultraviolet737	ex	347	100
-Brilliant Ultraviolet737	ex	710	32
-Brilliant Ultraviolet805	em	394	52
-Brilliant Ultraviolet805	em	803	100
-Brilliant Ultraviolet805	ex	348	100
-Brilliant Ultraviolet805	ex	717	24
-Brilliant Ultraviolet805	ex	785	64
-Brilliant Violet421	em	423	100
-Brilliant Violet421	em	449	46
-Brilliant Violet421	ex	304	25
-Brilliant Violet421	ex	406	100
-Brilliant Violet480	em	478	100
-Brilliant Violet480	ex	437	100
-Brilliant Violet510	em	505	100
-Brilliant Violet510	ex	312	100
-Brilliant Violet510	ex	404	53
-Brilliant Violet570	em	423	19
-Brilliant Violet570	em	574	100
-Brilliant Violet570	ex	406	100
-Brilliant Violet570	ex	525	15
-Brilliant Violet570	ex	557	26
-Brilliant Violet605	em	602	100
-Brilliant Violet605	ex	307	52
-Brilliant Violet605	ex	406	100
-Brilliant Violet605	ex	551	15
-Brilliant Violet605	ex	587	25
-Brilliant Violet650	em	423	16
-Brilliant Violet650	em	646	100
-Brilliant Violet650	ex	307	35
-Brilliant Violet650	ex	407	100
-Brilliant Violet650	ex	619	18
-Brilliant Violet711	em	422	35
-Brilliant Violet711	em	446	18
-Brilliant Violet711	em	711	100
-Brilliant Violet711	ex	406	100
-Brilliant Violet711	ex	690	22
-Brilliant Violet785	em	420	100
-Brilliant Violet785	em	448	50
-Brilliant Violet785	em	779	84
-Brilliant Violet785	ex	406	100
-Brilliant Violet785	ex	750	29
-Brilliant Violet786	em	424	22
-Brilliant Violet786	em	788	100
-Brilliant Violet786	em	849	39
-Brilliant Violet786	ex	405	100
-Brilliant Violet786	ex	757	36
-Calcein AM	em	515	100
-Calcein AM	ex	494	100
-Calcein Blue AM	em	448	100
-Calcein Blue AM	ex	360	100
-Calcein Red-Orange AM	em	592	100
-Calcein Red-Orange AM	ex	575	100
-Calcein Violet AM	em	452	100
-Calcein Violet AM	ex	401	100
-Calcium Crimson (calcium bound)	em	608	100
-Calcium Crimson (calcium bound)	ex	589	100
-Calcium Green	em	530	100
-Calcium Green	ex	335	18
-Calcium Green	ex	507	100
-Calcium Orange	em	574	100
-Calcium Orange	ex	353	11
-Calcium Orange	ex	549	100
-Calcium Sensor Dye eFluor514	em	516	100
-Calcium Sensor Dye eFluor514	ex	494	100
-Cascade Blue	em	419	100
-Cascade Blue	ex	380	79
-Cascade Blue	ex	402	100
-CaspGLOW Fluorescein Active Caspase Assay	em	517	100
-CaspGLOW Fluorescein Active Caspase Assay	ex	498	100
-CaspGLOW Fluorescein Active Caspase-3 Assay	em	517	100
-CaspGLOW Fluorescein Active Caspase-3 Assay	ex	498	100
-CaspGLOW Fluorescein Active Caspase-8 Assay	em	517	100
-CaspGLOW Fluorescein Active Caspase-8 Assay	ex	498	100
-CaspGLOW Fluorescein Active Caspase-9 Assay	em	517	100
-CaspGLOW Fluorescein Active Caspase-9 Assay	ex	498	100
-Cell Proliferation Dye eFluor450	em	449	100
-Cell Proliferation Dye eFluor450	ex	409	100
-Cell Proliferation Dye eFluor670	em	633	41
-Cell Proliferation Dye eFluor670	em	672	100
-Cell Proliferation Dye eFluor670	ex	653	100
-CellEvent Caspase-3_7 Green Assay	em	533	100
-CellEvent Caspase-3_7 Green Assay	ex	511	100
-CellEvent Red	em	609	100
-CellEvent Red	ex	588	100
-CellEvent Senescence Green	em	519	100
-CellEvent Senescence Green	ex	498	100
-CellMask Deep Red Actin	em	671	100
-CellMask Deep Red Actin	ex	652	100
-CellMask Deep Red plasma membrane stain	em	677	99
-CellMask Deep Red plasma membrane stain	ex	659	100
-CellMask Green Actin	em	513	100
-CellMask Green Actin	ex	505	100
-CellMask Orange Actin	em	572	100
-CellMask Orange Actin	ex	543	100
-CellMask Orange plasma membrane stain	em	571	100
-CellMask Orange plasma membrane stain	em	608	47
-CellMask Orange plasma membrane stain	ex	524	57
-CellMask Orange plasma membrane stain	ex	556	100
-CellROX Deep Red	em	663	100
-CellROX Deep Red	ex	603	34
-CellROX Deep Red	ex	646	100
-CellROX Green	em	525	100
-CellROX Green	ex	507	100
-CellROX Orange	em	571	100
-CellROX Orange	ex	553	100
-CellTrace Blue	em	409	100
-CellTrace Blue	ex	368	100
-CellTrace Far Red	em	657	100
-CellTrace Far Red	ex	630	100
-CellTrace Oregon Green	em	526	100
-CellTrace Oregon Green	ex	331	18
-CellTrace Oregon Green	ex	498	100
-CellTrace Violet	em	456	100
-CellTrace Violet	ex	392	100
-CellTrace Yellow	em	578	100
-CellTrace Yellow	ex	552	100
-CellTracker Blue CMF2HC	em	448	100
-CellTracker Blue CMF2HC	ex	360	100
-CellTracker Blue CMHC	em	448	100
-CellTracker Blue CMHC	ex	360	100
-CellTracker CM-Dil Dye	em	569	100
-CellTracker CM-Dil Dye	ex	520	60
-CellTracker CM-Dil Dye	ex	551	100
-CellTracker Deep Red	em	657	100
-CellTracker Deep Red	ex	630	100
-CellTracker Green CMFDA	em	517	100
-CellTracker Green CMFDA	ex	498	100
-CellTracker Orange CMTMR	em	578	100
-CellTracker Orange CMTMR	ex	552	100
-CellTracker Red CMTPX	em	613	100
-CellTracker Red CMTPX	ex	585	100
-CFP	em	476	100
-CFP	em	504	96
+BOBO-3	ex	570	100
+BODIPY_500_510	em	523	100
+BODIPY_500_510	ex	358	23
+BODIPY_500_510	ex	511	100
+BODIPY_581_591	em	522	25
+BODIPY_581_591	em	548	23
+BODIPY_581_591	em	598	100
+BODIPY_581_591	em	639	29
+BODIPY_581_591	ex	550	36
+BODIPY_581_591	ex	588	100
+BODIPY_630_650	em	641	100
+BODIPY_630_650	em	690	20
+BODIPY_630_650	ex	624	100
+BODIPY_650_665	em	664	100
+BODIPY_650_665	ex	351	36
+BODIPY_650_665	ex	645	100
+BODIPY_FL	em	513	98
+BODIPY_FL	ex	502	100
+BODIPY_R6G	em	548	100
+BODIPY_R6G	ex	528	100
+BODIPY_TMR	em	570	100
+BODIPY_TMR	ex	543	100
+BODIPY_TR	em	621	100
+BODIPY_TR	ex	310	29
+BODIPY_TR	ex	588	100
+BrilliantBlue515	em	514	100
+BrilliantBlue515	ex	315	47
+BrilliantBlue515	ex	490	100
+BrilliantBlue700	em	695	100
+BrilliantBlue700	ex	325	59
+BrilliantBlue700	ex	476	100
+BrilliantBlue700	ex	672	73
+BrilliantUltraviolet395	em	399	100
+BrilliantUltraviolet395	ex	347	100
+BrilliantUltraviolet496	em	399	13
+BrilliantUltraviolet496	em	493	100
+BrilliantUltraviolet496	ex	348	100
+BrilliantUltraviolet563	em	397	15
+BrilliantUltraviolet563	em	563	100
+BrilliantUltraviolet563	ex	349	100
+BrilliantUltraviolet563	ex	540	22
+BrilliantUltraviolet615	em	407	18
+BrilliantUltraviolet615	em	607	100
+BrilliantUltraviolet615	ex	350	100
+BrilliantUltraviolet615	ex	589	26
+BrilliantUltraviolet661	em	399	46
+BrilliantUltraviolet661	em	659	100
+BrilliantUltraviolet661	ex	349	100
+BrilliantUltraviolet661	ex	635	18
+BrilliantUltraviolet737	em	739	99
+BrilliantUltraviolet737	ex	348	100
+BrilliantUltraviolet737	ex	711	32
+BrilliantUltraviolet805	em	394	52
+BrilliantUltraviolet805	em	803	100
+BrilliantUltraviolet805	ex	349	100
+BrilliantUltraviolet805	ex	717	24
+BrilliantUltraviolet805	ex	785	64
+BrilliantViolet421	em	423	100
+BrilliantViolet421	em	450	46
+BrilliantViolet421	ex	304	25
+BrilliantViolet421	ex	406	100
+BrilliantViolet480	em	479	100
+BrilliantViolet480	ex	308	19
+BrilliantViolet480	ex	437	100
+BrilliantViolet510	em	505	100
+BrilliantViolet510	ex	311	100
+BrilliantViolet510	ex	405	53
+BrilliantViolet570	em	423	19
+BrilliantViolet570	em	574	100
+BrilliantViolet570	ex	406	100
+BrilliantViolet570	ex	529	15
+BrilliantViolet570	ex	557	26
+BrilliantViolet605	em	603	100
+BrilliantViolet605	ex	307	52
+BrilliantViolet605	ex	406	100
+BrilliantViolet605	ex	551	15
+BrilliantViolet605	ex	587	25
+BrilliantViolet650	em	423	16
+BrilliantViolet650	em	646	100
+BrilliantViolet650	ex	307	35
+BrilliantViolet650	ex	406	100
+BrilliantViolet650	ex	619	18
+BrilliantViolet711	em	423	35
+BrilliantViolet711	em	446	18
+BrilliantViolet711	em	712	100
+BrilliantViolet711	ex	406	100
+BrilliantViolet711	ex	690	22
+BrilliantViolet785	em	423	100
+BrilliantViolet785	em	447	49
+BrilliantViolet785	em	779	84
+BrilliantViolet785	ex	406	100
+BrilliantViolet785	ex	750	29
+BrilliantViolet786	em	423	22
+BrilliantViolet786	em	788	100
+BrilliantViolet786	em	849	39
+BrilliantViolet786	em	888	28
+BrilliantViolet786	ex	405	100
+BrilliantViolet786	ex	757	36
+CalceinAM	em	515	100
+CalceinAM	ex	493	100
+CalceinBlueAM	em	449	100
+CalceinBlueAM	ex	360	100
+CalceinRedOrangeAM	em	592	100
+CalceinRedOrangeAM	ex	575	100
+CalceinVioletAM	em	452	100
+CalceinVioletAM	ex	401	100
+CalciumCrimson (CalciumBound)	em	609	100
+CalciumCrimson (CalciumBound)	ex	550	34
+CalciumCrimson (CalciumBound)	ex	589	100
+CalciumGreen	em	530	100
+CalciumGreen	ex	334	18
+CalciumGreen	ex	507	100
+CalciumOrange	em	575	100
+CalciumOrange	ex	353	11
+CalciumOrange	ex	549	100
+CalciumSensorDyeeFluor514	em	516	100
+CalciumSensorDyeeFluor514	ex	493	100
+CascadeBlue	em	419	100
+CascadeBlue	ex	376	76
+CascadeBlue	ex	402	100
+CaspGLOWFluoresceinActiveCaspase-3Assay	em	518	100
+CaspGLOWFluoresceinActiveCaspase-3Assay	ex	498	100
+CaspGLOWFluoresceinActiveCaspase-8Assay	em	518	100
+CaspGLOWFluoresceinActiveCaspase-8Assay	ex	498	100
+CaspGLOWFluoresceinActiveCaspase-9Assay	em	518	100
+CaspGLOWFluoresceinActiveCaspase-9Assay	ex	498	100
+CaspGLOWFluoresceinActiveCaspaseAssay	em	518	100
+CaspGLOWFluoresceinActiveCaspaseAssay	ex	498	100
+CellEventCaspase-3_7GreenAssay	em	534	100
+CellEventCaspase-3_7GreenAssay	ex	512	100
+CellEventRed	em	609	100
+CellEventRed	ex	589	100
+CellEventSenescenceGreen	em	519	100
+CellEventSenescenceGreen	ex	498	100
+CellMaskDeepRedActin	em	671	100
+CellMaskDeepRedActin	ex	652	100
+CellMaskDeepRedPlasmaMembraneStain	em	677	99
+CellMaskDeepRedPlasmaMembraneStain	ex	659	100
+CellMaskGreenActin	em	513	100
+CellMaskGreenActin	ex	503	99
+CellMaskOrangeActin	em	572	100
+CellMaskOrangeActin	ex	542	100
+CellMaskOrangePlasmaMembraneStain	em	571	100
+CellMaskOrangePlasmaMembraneStain	em	608	47
+CellMaskOrangePlasmaMembraneStain	ex	524	57
+CellMaskOrangePlasmaMembraneStain	ex	556	100
+CellProliferationDyeeFluor450	em	449	100
+CellProliferationDyeeFluor450	ex	409	100
+CellProliferationDyeeFluor670	em	635	39
+CellProliferationDyeeFluor670	em	672	100
+CellProliferationDyeeFluor670	ex	653	100
+CellROXDeepRed	em	664	100
+CellROXDeepRed	ex	645	100
+CellROXGreen	em	525	100
+CellROXGreen	ex	507	100
+CellROXOrange	em	571	100
+CellROXOrange	ex	553	100
+CellTraceBlue	em	410	100
+CellTraceBlue	ex	369	100
+CellTraceFarRed	em	658	100
+CellTraceFarRed	ex	630	100
+CellTraceOregonGreen	em	525	100
+CellTraceOregonGreen	ex	330	18
+CellTraceOregonGreen	ex	498	100
+CellTraceViolet	em	456	100
+CellTraceViolet	ex	391	100
+CellTraceYellow	em	577	100
+CellTraceYellow	ex	552	100
+CellTrackerBlueCMF2HC	em	449	100
+CellTrackerBlueCMF2HC	ex	360	100
+CellTrackerBlueCMHC	em	449	100
+CellTrackerBlueCMHC	ex	360	100
+CellTrackerCM-Dil	em	569	100
+CellTrackerCM-Dil	ex	519	60
+CellTrackerCM-Dil	ex	550	100
+CellTrackerDeepRed	em	658	100
+CellTrackerDeepRed	ex	630	100
+CellTrackerGreenCMFDA	em	518	100
+CellTrackerGreenCMFDA	ex	498	100
+CellTrackerOrangeCMTMR	em	577	100
+CellTrackerOrangeCMTMR	ex	552	100
+CellTrackerRedCMTPX	em	612	100
+CellTrackerRedCMTPX	ex	584	100
+CFP	em	478	99
+CFP	em	503	96
 CFP	ex	434	100
-CFP	ex	453	99
-CFSE	em	517	100
+CFP	ex	451	98
+CFSE	em	518	100
 CFSE	ex	498	100
-Cy3	em	566	100
-Cy3	ex	521	54
+Cy3	em	565	100
+Cy3	ex	520	53
 Cy3	ex	553	100
 Cy3.5	em	590	100
-Cy3.5	em	636	45
+Cy3.5	em	635	45
 Cy3.5	ex	540	63
 Cy3.5	ex	577	100
-Cy7	em	776	100
-Cy7	ex	751	100
+Cy7	em	777	100
+Cy7	ex	750	100
 CyQuant	em	523	100
 CyQuant	ex	502	100
-DAF-FM	em	519	100
-DAF-FM	ex	495	100
-Dansyl	em	526	100
-Dansyl	ex	334	100
-DAPI	em	462	100
-DAPI	ex	359	100
-Dapoxyl	em	580	100
-Dapoxyl	ex	373	100
-DCF	em	525	100
-DCF	ex	504	100
-DDAO	em	657	100
-DDAO	ex	314	28
-DDAO	ex	648	100
-Deep Red Actin	em	512	100
-Deep Red Actin	ex	505	100
-Di-2-ANEPEQ (JPW 1114)	em	700	100
-Di-2-ANEPEQ (JPW 1114)	ex	489	100
-Di-3-ANEPPDHQ	em	682	100
-Di-3-ANEPPDHQ	ex	484	100
-Di-4-ANEPPDHQ	em	679	100
+DAF-FM	em	NA	NA
+DAF-FM	ex	454	100
+Dansyl	em	518	100
+Dansyl	ex	495	100
+DAPI	em	526	100
+DAPI	ex	335	100
+Dapoxyl	em	461	100
+Dapoxyl	ex	359	100
+DCF	em	581	100
+DCF	ex	373	100
+DDAO	em	525	100
+DDAO	ex	503	100
+DeepRedActin	em	658	100
+DeepRedActin	ex	314	28
+DeepRedActin	ex	644	99
+Di-2-ANEPEQ (JPW1114)	em	513	100
+Di-2-ANEPEQ (JPW1114)	ex	503	98
+Di-3-ANEPPDHQ	em	701	100
+Di-3-ANEPPDHQ	ex	362	11
+Di-3-ANEPPDHQ	ex	489	100
+Di-4-ANEPPDHQ	em	682	100
 Di-4-ANEPPDHQ	ex	484	100
-Di-4-ANEPPS	em	685	100
-Di-4-ANEPPS	ex	482	100
-Di-8-ANEPPS	em	631	100
-Di-8-ANEPPS	ex	311	51
-Di-8-ANEPPS	ex	467	100
-DiA	em	586	100
-DiA	ex	455	100
-Dibromobimane (bBBr)	em	490	100
-Dibromobimane (bBBr)	ex	395	100
-DiD	em	670	100
-DiD	ex	648	100
-DiFMU (pH 3.0)	em	450	100
-DiFMU (pH 3.0)	ex	320	100
-DiFMU (pH 9.0)	em	450	100
-DiFMU (pH 9.0)	ex	358	100
-Dihydroethidium	em	582	100
-Dihydroethidium	ex	380	60
-Dihydroethidium	ex	499	100
-DiI	em	569	100
-DiI	ex	520	60
-DiI	ex	551	100
-DiO	em	506	100
-DiO	ex	489	100
-DiR	em	783	100
-DiR	ex	750	100
-DsRed	em	583	100
-DsRed	ex	335	12
-DsRed	ex	487	26
-DsRed	ex	559	100
-DsRed Dimer2	em	579	100
-DsRed Dimer2	ex	335	13
-DsRed Dimer2	ex	554	100
-DyeCycle Green	em	533	100
-DyeCycle Green	ex	506	100
-DyeCycle Orange	em	563	100
-DyeCycle Orange	ex	518	100
-DyeCycle Violet	em	436	100
-DyeCycle Violet	ex	370	100
-DyLight 510-LS	em	572	100
-DyLight 510-LS	ex	325	19
-DyLight 510-LS	ex	494	100
-DyLight 515-LS	em	658	100
-DyLight 515-LS	ex	323	16
-DyLight 515-LS	ex	522	100
-DyLight 521-LS	em	673	100
-DyLight 521-LS	em	766	15
-DyLight 521-LS	ex	329	13
-DyLight 521-LS	ex	533	100
-DyLight350	em	432	100
-DyLight350	ex	353	100
-DyLight405	em	423	100
-DyLight405	ex	378	87
-DyLight405	ex	400	99
-DyLight488	em	520	100
-DyLight488	ex	493	100
-DyLight549	em	569	100
-DyLight549	ex	520	50
-DyLight549	ex	553	100
-DyLight550	em	570	100
-DyLight550	ex	525	52
-DyLight550	ex	556	100
-DyLight594	em	614	100
-DyLight594	ex	371	14
-DyLight594	ex	394	12
-DyLight594	ex	587	100
-DyLight633	em	649	100
-DyLight633	ex	620	100
-DyLight650	em	673	100
-DyLight650	ex	651	100
-DyLight680	em	706	100
-DyLight680	ex	676	100
-DyLight755	em	773	100
-DyLight755	ex	754	100
-DyLight800	em	785	100
-DyLight800	ex	770	100
-ECD	em	562	25
-ECD	em	614	100
-ECD	ex	307	17
-ECD	ex	373	13
-ECD	ex	496	67
-ECD	ex	566	100
-ECD	ex	611	17
-eFluor450	em	445	100
-eFluor450	ex	405	100
-eFluor506	em	509	100
-eFluor506	ex	420	100
-eFluor570	em	569	100
-eFluor570	ex	523	51
-eFluor570	ex	556	100
-eFluor615	em	614	100
-eFluor615	ex	595	100
-eFluor660	em	668	100
-eFluor660	ex	651	100
-eFluor710	em	708	100
-eFluor710	ex	642	34
-eFluor710	ex	690	100
-eGFP	em	510	100
-eGFP	ex	489	100
-ELF 97	em	536	100
-ELF 97	ex	343	94
-Eosin	em	545	100
-Eosin	ex	525	100
-Epoxide hydrolase substrate	em	450	100
-Epoxide hydrolase substrate	ex	358	100
-ER-Tracker Blue-White DPX	em	550	100
-ER-Tracker Blue-White DPX	ex	372	100
-ER-Tracker Green	em	511	100
-ER-Tracker Green	ex	502	100
-Ethidium homodimer	em	618	100
-Ethidium homodimer	ex	528	100
-eYFP	em	529	100
-eYFP	ex	514	100
-Fast Blue	em	753	100
-Fast Blue	ex	343	47
-Fast Blue	ex	361	48
-Fast Blue	ex	610	97
-Fast Blue	ex	628	95
-Fast Blue	ex	663	100
-FilmTracer calcein red-orange	em	592	100
-FilmTracer calcein red-orange	ex	575	100
-FilmTracer calcein violet	em	452	100
-FilmTracer calcein violet	ex	401	100
-FITC	em	517	100
-FITC	ex	498	100
-Fixable Viability Dye eFluor450	em	445	100
-Fixable Viability Dye eFluor450	ex	405	100
-Fixable Viability Dye eFluor455UV	em	455	100
-Fixable Viability Dye eFluor455UV	ex	347	100
-Fixable Viability Dye eFluor506	em	505	99
-Fixable Viability Dye eFluor506	ex	410	84
-Fixable Viability Dye eFluor520	em	523	100
-Fixable Viability Dye eFluor520	ex	322	14
-Fixable Viability Dye eFluor520	ex	493	100
-Fixable Viability Dye eFluor660	em	657	100
-Fixable Viability Dye eFluor660	ex	643	100
-Fixable Viability Dye eFluor780	em	786	100
-Fixable Viability Dye eFluor780	ex	753	100
-FlAsH	em	531	100
-FlAsH	ex	511	100
-Fluo-3 (calcium bound)	em	527	100
-Fluo-3 (calcium bound)	ex	507	100
-Fluo-4 (calcium bound)	em	516	100
-Fluo-4 (calcium bound)	ex	494	100
-FluoroMyelin Green Fluorescent Myelin 	em	579	100
-FluoroMyelin Green Fluorescent Myelin 	ex	473	100
-FluoroMyelin Red Fluorescent Myelin 	em	726	100
-FluoroMyelin Red Fluorescent Myelin 	ex	344	36
-FluoroMyelin Red Fluorescent Myelin 	ex	506	100
-FluoSpheres blue fluorescent microspheres	em	413	100
-FluoSpheres blue fluorescent microspheres	ex	356	100
-FluoSpheres crimson fluorescent microspheres	em	646	100
-FluoSpheres crimson fluorescent microspheres	ex	620	100
-FluoSpheres dark red fluorescent microspheres	em	684	100
-FluoSpheres dark red fluorescent microspheres	ex	656	100
-FluoSpheres nile red fluorescent microspheres	em	639	100
-FluoSpheres nile red fluorescent microspheres	ex	536	100
-FluoSpheres orange fluorescent microspheres	em	560	100
-FluoSpheres orange fluorescent microspheres	ex	540	100
-FluoSpheres red fluorescent microspheres	em	607	100
-FluoSpheres red fluorescent microspheres	ex	577	100
-FluoSpheres yellow-green fluorescent microspheres	em	514	100
-FluoSpheres yellow-green fluorescent microspheres	ex	503	100
-FluxOR Red	em	576	100
-FluxOR Red	ex	552	100
-FluxOR thallium indicator	em	521	100
-FluxOR thallium indicator	ex	492	100
-FM 1-43	em	579	100
-FM 1-43	ex	473	100
-FM 2-10	em	609	100
-FM 2-10	ex	484	100
-FM 4-64	em	726	100
-FM 4-64	ex	344	36
-FM 4-64	ex	506	100
-FM 5-95	em	771	100
-FM 5-95	em	790	100
-FM 5-95	ex	528	100
-FocalCheck Blue Ring 	em	413	100
-FocalCheck Blue Ring 	ex	356	100
-FocalCheck Dark Red Ring 	em	684	100
-FocalCheck Dark Red Ring 	ex	656	100
-GFP	em	508	100
-GFP	ex	489	100
-Green Actin	em	512	100
-Green Actin	ex	505	100
-HCS CellMask Blue stain	em	444	100
-HCS CellMask Blue stain	ex	347	100
-HCS CellMask Deep Red stain	em	670	100
-HCS CellMask Deep Red stain	ex	649	100
-HCS CellMask Green stain	em	517	100
-HCS CellMask Green stain	ex	308	23
-HCS CellMask Green stain	ex	333	11
-HCS CellMask Green stain	ex	493	100
-HCS CellMask Orange stain	em	564	100
-HCS CellMask Orange stain	em	601	45
-HCS CellMask Orange stain	ex	518	49
-HCS CellMask Orange stain	ex	551	100
-HCS CellMask Red stain	em	614	100
-HCS CellMask Red stain	ex	587	100
-HCS LipidTOX Deep Red	em	651	100
-HCS LipidTOX Deep Red	ex	635	100
-HCS LipidTOX Green Neutral Lipid	em	507	100
-HCS LipidTOX Green Neutral Lipid	ex	498	100
-HCS LipidTOX Green phospholipidosis reagent	em	536	100
-HCS LipidTOX Green phospholipidosis reagent	ex	504	100
-HCS LipidTOX Red Neutral Lipid	em	616	100
-HCS LipidTOX Red Neutral Lipid	ex	582	100
-HCS LipidTOX Red phospholipidosis reagent	em	608	100
-HCS LipidTOX Red phospholipidosis reagent	ex	584	100
-HCS NuclearMask Blue stain	em	454	100
-HCS NuclearMask Blue stain	ex	352	100
-HCS NuclearMask Deep Red	em	686	100
-HCS NuclearMask Deep Red	em	725	89
-HCS NuclearMask Deep Red	ex	603	87
-HCS NuclearMask Deep Red	ex	638	100
-HCS NuclearMask Red stain	em	644	100
-HCS NuclearMask Red stain	ex	322	14
-HCS NuclearMask Red stain	ex	622	100
-Hoechst 33258	em	454	100
-Hoechst 33258	ex	352	100
-Hoechst 33342	em	454	100
-Hoechst 33342	ex	352	100
-Hypoxia Green	em	517	100
-Hypoxia Green	ex	498	100
-Image-iT DEAD Green viability stain	em	508	100
-Image-iT DEAD Green viability stain	ex	490	100
-Image-iT Lipid Peroxidation Sensor	em	522	25
-Image-iT Lipid Peroxidation Sensor	em	548	23
-Image-iT Lipid Peroxidation Sensor	em	597	100
-Image-iT Lipid Peroxidation Sensor	ex	550	36
-Image-iT Lipid Peroxidation Sensor	ex	588	100
-Indo-1 (calcium bound)	em	404	100
-Indo-1 (calcium bound)	ex	330	100
-Indo-1 (calcium free)	em	480	71
-Indo-1 (calcium free)	ex	346	100
-JC-1	em	526	22
-JC-1	em	595	100
-JC-1	ex	498	82
-JC-1	ex	592	100
-JOE	em	548	100
-JOE	ex	520	100
-JOJO-1	em	544	100
-JOJO-1	ex	501	37
-JOJO-1	ex	530	100
-Krome Orange	em	536	100
-Krome Orange	ex	390	100
-LDS751	em	711	100
-LDS751	ex	560	100
-LIVE_DEAD Fixable Aqua	em	525	100
-LIVE_DEAD Fixable Aqua	ex	368	100
-LIVE_DEAD Fixable Blue	em	442	100
-LIVE_DEAD Fixable Blue	ex	343	100
-LIVE_DEAD Fixable Far Red	em	671	100
-LIVE_DEAD Fixable Far Red	ex	650	100
-LIVE_DEAD Fixable Green	em	526	100
-LIVE_DEAD Fixable Green	ex	331	18
-LIVE_DEAD Fixable Green	ex	498	100
-LIVE_DEAD Fixable Lime (506)	em	504	100
-LIVE_DEAD Fixable Lime (506)	ex	410	100
-LIVE_DEAD Fixable Near IR (780)	em	785	100
-LIVE_DEAD Fixable Near IR (780)	ex	753	100
-LIVE_DEAD Fixable Near-IR876	em	880	100
-LIVE_DEAD Fixable Near-IR876	ex	439	23
-LIVE_DEAD Fixable Near-IR876	ex	539	12
-LIVE_DEAD Fixable Near-IR876	ex	838	100
-LIVE_DEAD Fixable Olive (557)	em	564	100
-LIVE_DEAD Fixable Olive (557)	ex	475	100
-LIVE_DEAD Fixable Orange (602)	em	603	100
-LIVE_DEAD Fixable Orange (602)	ex	578	100
-LIVE_DEAD Fixable Scarlet723	em	719	100
-LIVE_DEAD Fixable Scarlet723	ex	696	100
-LIVE_DEAD Fixable Violet	em	455	100
-LIVE_DEAD Fixable Violet	ex	404	100
-LIVE_DEAD Fixable Yellow	em	552	100
-LIVE_DEAD Fixable Yellow	ex	401	100
-LIVE_DEAD NIR775	em	776	100
-LIVE_DEAD NIR775	ex	752	100
-Lucifer Yellow	em	543	100
-Lucifer Yellow	ex	427	100
-LysoSensor Blue	em	424	100
-LysoSensor Blue	em	448	47
-LysoSensor Blue	ex	339	29
-LysoSensor Blue	ex	356	63
-LysoSensor Blue	ex	374	100
-LysoSensor Blue	ex	396	100
-LysoSensor Green	em	503	100
-LysoSensor Green	ex	447	100
-LysoSensor Yellow_Blue (pH 3.0)	em	540	91
-LysoSensor Yellow_Blue (pH 3.0)	ex	388	91
-LysoSensor Yellow_Blue (pH 9)	em	529	65
-LysoSensor Yellow_Blue (pH 9)	ex	334	100
-LysoTracker Blue	em	400	94
-LysoTracker Blue	em	422	100
-LysoTracker Blue	em	446	49
-LysoTracker Blue	ex	338	30
-LysoTracker Blue	ex	355	64
-LysoTracker Blue	ex	373	100
-LysoTracker Blue	ex	394	96
-LysoTracker Deep Red	em	664	100
-LysoTracker Deep Red	ex	351	36
-LysoTracker Deep Red	ex	646	100
-LysoTracker Green	em	509	100
-LysoTracker Green	ex	500	100
-LysoTracker Red	em	592	100
-LysoTracker Red	ex	574	100
-LysoTracker Yellow HCK-123	em	565	100
-LysoTracker Yellow HCK-123	ex	486	100
-Mag-fura-2	em	503	100
-Mag-fura-2	ex	336	100
-Magnesium Green	em	531	100
-Magnesium Green	ex	335	16
-Magnesium Green	ex	507	100
-Marina Blue	em	463	100
-Marina Blue	ex	363	100
-mBanana	em	553	100
-mBanana	ex	540	100
-mHoneyDew	em	562	100
-mHoneyDew	ex	478	100
-mHoneyDew	ex	503	92
-MitoHealth stain	em	508	100
-MitoHealth stain	ex	490	100
-MItoProbe TMRM	em	578	100
-MItoProbe TMRM	ex	552	100
-MitoSox Green	em	517	100
-MitoSox Green	ex	368	31
-MitoSox Green	ex	455	100
-MitoSOX Red	em	582	100
-MitoSOX Red	ex	380	60
-MitoSOX Red	ex	499	100
-MitoTracker Deep Red FM	em	662	100
-MitoTracker Deep Red FM	ex	641	100
-MitoTracker Green FM	em	512	100
-MitoTracker Green FM	ex	490	100
-MitoTracker Red	em	599	100
-MitoTracker Red	ex	314	18
-MitoTracker Red	ex	540	29
-MitoTracker Red	ex	578	100
-MitoTracker Red FM	em	650	100
-MitoTracker Red FM	ex	604	100
-Monobromobimane (mBBr)	em	490	100
-Monobromobimane (mBBr)	ex	395	100
-Monochlorobimane (mBCI)	em	483	100
-Monochlorobimane (mBCI)	ex	388	100
-mOrange	em	562	100
-mOrange	ex	515	52
-mOrange	ex	548	100
-mPlum	em	647	100
-mPlum	ex	589	100
-mRaspberry	em	624	100
-mRaspberry	ex	598	100
-mScarlet	em	593	100
-mScarlet	ex	570	100
-mTangerine	em	585	100
-mTangerine	ex	568	100
-Naphthofluorescein	em	673	100
-Naphthofluorescein	ex	361	37
-Naphthofluorescein	ex	423	27
-Naphthofluorescein	ex	599	100
-NBD	em	538	100
-NBD	ex	334	38
-NBD	ex	467	100
-NeuroTrace 435_455 blue fluorescent Nissl stain	em	458	100
-NeuroTrace 435_455 blue fluorescent Nissl stain	ex	433	100
-NeuroTrace 515_535 yellow fluorescent Nissl stain	em	531	100
-NeuroTrace 515_535 yellow fluorescent Nissl stain	ex	514	100
-NeuroTrace 530_615 red fluorescent Nissl stain	em	618	100
-NeuroTrace 530_615 red fluorescent Nissl stain	ex	528	100
-NeuroTrace 640_660 deep-red fluorescent Nissl stain	em	661	100
-NeuroTrace 640_660 deep-red fluorescent Nissl stain	ex	341	14
-NeuroTrace 640_660 deep-red fluorescent Nissl stain	ex	642	100
-Nile blue	em	661	99
-Nile blue	ex	326	17
-Nile blue	ex	630	100
-Nile red (phospholipid)	em	637	100
-Nile red (phospholipid)	ex	552	100
-Nile red (triglyceride)	em	583	100
-Nile red (triglyceride)	ex	511	100
-NovaFluor Blue 610-30S	em	527	19
-NovaFluor Blue 610-30S	em	615	100
-NovaFluor Blue 610-30S	ex	509	100
-NovaFluor Blue 610-30S	ex	598	51
-NovaFluor Blue 610-70S	em	510	16
-NovaFluor Blue 610-70S	em	616	100
-NovaFluor Blue 610-70S	ex	492	100
-NovaFluor Blue 610-70S	ex	555	13
-NovaFluor Blue 610-70S	ex	598	44
-NovaFluor Blue 660-120S	em	510	26
-NovaFluor Blue 660-120S	em	666	100
-NovaFluor Blue 660-120S	ex	492	100
-NovaFluor Blue 660-120S	ex	604	15
-NovaFluor Blue 660-120S	ex	651	64
-NovaFluor Blue 660-40S	em	527	29
-NovaFluor Blue 660-40S	em	664	100
-NovaFluor Blue 660-40S	ex	508	100
-NovaFluor Blue 660-40S	ex	604	19
-NovaFluor Blue 660-40S	ex	650	79
-NovaFluor Blue510	em	513	100
-NovaFluor Blue510	ex	492	100
-NovaFluor Blue530	em	527	100
-NovaFluor Blue530	ex	508	100
-NovaFluor Blue555	em	510	28
-NovaFluor Blue555	em	555	100
-NovaFluor Blue555	ex	494	100
-NovaFluor Blue555	ex	537	42
-NovaFluor Blue585	em	511	29
-NovaFluor Blue585	em	586	100
-NovaFluor Blue585	ex	492	100
-NovaFluor Blue690	em	509	23
-NovaFluor Blue690	em	582	22
-NovaFluor Blue690	em	688	100
-NovaFluor Blue690	ex	495	87
-NovaFluor Blue690	ex	620	28
-NovaFluor Blue690	ex	672	100
-NovaFluor Blue725	em	511	59
-NovaFluor Blue725	em	728	100
-NovaFluor Blue725	ex	494	100
-NovaFluor Blue725	ex	711	38
-NovaFluor Blue760	em	509	19
-NovaFluor Blue760	em	764	100
-NovaFluor Blue760	ex	494	94
-NovaFluor Blue760	ex	738	99
-NovaFluor Blue800	em	510	14
-NovaFluor Blue800	em	806	100
-NovaFluor Blue800	ex	469	84
-NovaFluor Blue800	ex	493	100
-NovaFluor Blue800	ex	798	51
-NovaFluor Red660	em	659	100
-NovaFluor Red660	ex	636	100
-NovaFluor Red685	em	686	100
-NovaFluor Red685	ex	637	100
-NovaFluor Red700	em	700	100
-NovaFluor Red700	ex	637	100
-NovaFluor Red700	ex	676	63
-NovaFluor Red710	em	714	100
-NovaFluor Red710	ex	637	100
-NovaFluor Red710	ex	688	88
-NovaFluor Red725	em	656	22
-NovaFluor Red725	em	727	100
-NovaFluor Red725	ex	636	100
-NovaFluor Red725	ex	710	30
-NovaFluor Red755	em	652	22
-NovaFluor Red755	em	756	100
-NovaFluor Red755	ex	636	100
-NovaFluor Red755	ex	730	46
-NovaFluor UV765	em	403	24
-NovaFluor UV765	em	763	100
-NovaFluor UV765	ex	356	85
-NovaFluor UV765	ex	735	99
-NovaFluor Violet690	em	691	100
-NovaFluor Violet690	ex	408	56
-NovaFluor Violet690	ex	622	25
-NovaFluor Violet690	ex	675	100
-NovaFluor Violet745	em	743	100
-NovaFluor Violet745	ex	390	68
-NovaFluor Violet745	ex	498	13
-NovaFluor Violet745	ex	724	100
-NovaFluor Violet800	em	478	18
-NovaFluor Violet800	em	800	100
-NovaFluor Violet800	ex	409	50
-NovaFluor Violet800	ex	782	91
-NovaFluor Yellow570	em	566	100
-NovaFluor Yellow570	ex	521	55
-NovaFluor Yellow570	ex	551	100
-NovaFluor Yellow590	em	594	100
-NovaFluor Yellow590	ex	563	100
-NovaFluor Yellow610	em	566	14
-NovaFluor Yellow610	em	614	100
-NovaFluor Yellow610	ex	551	100
-NovaFluor Yellow610	ex	597	20
-NovaFluor Yellow660	em	564	18
-NovaFluor Yellow660	em	664	100
-NovaFluor Yellow660	ex	550	100
-NovaFluor Yellow660	ex	651	29
-NovaFluor Yellow690	em	564	20
-NovaFluor Yellow690	em	690	100
-NovaFluor Yellow690	ex	519	53
-NovaFluor Yellow690	ex	551	100
-NovaFluor Yellow690	ex	671	55
-NovaFluor Yellow700	em	564	17
-NovaFluor Yellow700	em	700	100
-NovaFluor Yellow700	ex	519	53
-NovaFluor Yellow700	ex	550	100
-NovaFluor Yellow700	ex	679	51
-NovaFluor Yellow730	em	591	39
-NovaFluor Yellow730	em	730	100
-NovaFluor Yellow730	ex	383	13
-NovaFluor Yellow730	ex	551	100
-NovaFluor Yellow730	ex	710	49
-NovaFluor Yellow755	em	589	30
-NovaFluor Yellow755	em	754	100
-NovaFluor Yellow755	ex	551	100
-NovaFluor Yellow755	ex	731	68
-NovaFluor Yellow810	em	569	16
-NovaFluor Yellow810	em	813	100
-NovaFluor Yellow810	ex	517	65
-NovaFluor Yellow810	ex	550	100
-NovaFluor Yellow810	ex	806	37
-Orange Actin	em	512	100
-Orange Actin	ex	505	100
-Oregon Green 488 BAPTA	em	522	100
-Oregon Green 488 BAPTA	ex	493	100
-Oregon Green488	em	526	100
-Oregon Green488	ex	331	18
-Oregon Green488	ex	498	100
-Oregon Green514	em	532	100
-Oregon Green514	ex	334	11
-Oregon Green514	ex	513	100
-Pacific Blue	em	455	100
-Pacific Blue	ex	404	100
-Pacific Green	em	501	100
-Pacific Green	ex	414	100
-Pacific Orange	em	552	100
-Pacific Orange	ex	401	100
-PE	em	575	100
-PE	ex	307	11
-PE	ex	497	69
-PE	ex	565	100
-PE-Alexa Fluor610	em	574	25
-PE-Alexa Fluor610	em	626	100
-PE-Alexa Fluor610	ex	307	17
-PE-Alexa Fluor610	ex	373	13
-PE-Alexa Fluor610	ex	496	67
-PE-Alexa Fluor610	ex	566	100
-PE-Alexa Fluor610	ex	611	17
-PE-Alexa Fluor680	em	574	18
-PE-Alexa Fluor680	em	702	100
-PE-Alexa Fluor680	ex	344	16
-PE-Alexa Fluor680	ex	371	15
-PE-Alexa Fluor680	ex	498	69
-PE-Alexa Fluor680	ex	569	100
-PE-Alexa Fluor680	ex	685	60
-PE-Alexa Fluor700	em	577	23
-PE-Alexa Fluor700	em	721	100
-PE-Alexa Fluor700	ex	499	65
-PE-Alexa Fluor700	ex	566	100
-PE-Alexa Fluor700	ex	699	57
-PE-CF594	em	614	100
-PE-CF594	ex	496	55
-PE-CF594	ex	565	100
-PE-Cy5	em	667	100
-PE-Cy5	ex	497	68
-PE-Cy5	ex	568	100
-PE-Cy5.5	em	576	23
-PE-Cy5.5	em	692	100
-PE-Cy5.5	ex	304	14
-PE-Cy5.5	ex	373	12
-PE-Cy5.5	ex	497	69
+Di-4-ANEPPS	em	679	100
+Di-4-ANEPPS	ex	486	100
+Di-8-ANEPPS	em	685	100
+Di-8-ANEPPS	ex	482	100
+DiA	em	631	100
+DiA	ex	308	50
+DiA	ex	467	100
+Dibromobimane (bBBr)	em	586	100
+Dibromobimane (bBBr)	ex	455	100
+DiD	em	489	100
+DiD	ex	395	100
+DiFMU (pH3.0)	em	670	100
+DiFMU (pH3.0)	ex	648	100
+DiFMU (pH9.0)	em	450	100
+DiFMU (pH9.0)	ex	319	100
+Dihydroethidium	em	451	100
+Dihydroethidium	ex	358	100
+DiI	em	581	100
+DiI	ex	357	52
+DiI	ex	381	60
+DiI	ex	499	100
+DiO	em	569	100
+DiO	ex	519	60
+DiO	ex	550	100
+DiR	em	507	100
+DiR	ex	488	100
+DsRed	em	584	100
+DsRed	ex	334	13
+DsRed	ex	477	77
+DsRed	ex	556	82
+DsRedDimer2	em	696	100
+DsRedDimer2	ex	597	100
+DsRedDimer2	ex	642	88
+DyeCycleGreen	em	583	100
+DyeCycleGreen	ex	335	12
+DyeCycleGreen	ex	489	26
+DyeCycleGreen	ex	559	100
+DyeCycleOrange	em	533	100
+DyeCycleOrange	ex	506	100
+DyeCycleViolet	em	562	100
+DyeCycleViolet	ex	518	100
+DyLight350	em	436	100
+DyLight350	ex	371	100
+DyLight405	em	432	100
+DyLight405	ex	353	100
+DyLight488	em	423	100
+DyLight488	ex	375	86
+DyLight488	ex	401	98
+DyLight510-LS	em	520	100
+DyLight510-LS	ex	492	100
+DyLight515-LS	em	572	100
+DyLight515-LS	ex	324	19
+DyLight515-LS	ex	360	12
+DyLight515-LS	ex	494	100
+DyLight521-LS	em	658	100
+DyLight521-LS	ex	324	15
+DyLight521-LS	ex	522	100
+DyLight549	em	673	100
+DyLight549	ex	328	13
+DyLight549	ex	376	11
+DyLight549	ex	533	100
+DyLight550	em	569	100
+DyLight550	ex	520	50
+DyLight550	ex	553	100
+DyLight594	em	570	100
+DyLight594	ex	524	53
+DyLight594	ex	556	100
+DyLight633	em	614	100
+DyLight633	ex	371	14
+DyLight633	ex	395	12
+DyLight633	ex	587	100
+DyLight650	em	650	99
+DyLight650	ex	620	100
+DyLight680	em	673	100
+DyLight680	ex	651	100
+DyLight755	em	706	100
+DyLight755	ex	676	100
+DyLight800	em	773	100
+DyLight800	ex	754	100
+ECD	em	787	99
+ECD	ex	770	100
+eFluor450	em	563	25
+eFluor450	em	614	100
+eFluor450	ex	303	16
+eFluor450	ex	372	13
+eFluor450	ex	496	67
+eFluor450	ex	564	98
+eFluor450	ex	610	17
+eFluor506	em	445	100
+eFluor506	ex	405	100
+eFluor570	em	509	100
+eFluor570	ex	420	100
+eFluor615	em	570	95
+eFluor615	ex	524	51
+eFluor615	ex	556	100
+eFluor660	em	615	100
+eFluor660	ex	303	18
+eFluor660	ex	595	100
+eFluor710	em	669	100
+eFluor710	ex	650	100
+eGFP	em	536	100
+eGFP	ex	343	94
+ELF97	em	707	100
+ELF97	ex	641	34
+ELF97	ex	690	100
+Eosin	em	530	100
+Eosin	ex	513	100
+EpoxideHydrolaseSubstrate	em	545	100
+EpoxideHydrolaseSubstrate	ex	526	100
+ER-TrackerBlue-WhiteDPX	em	451	100
+ER-TrackerBlue-WhiteDPX	ex	358	100
+ER-TrackerGreen	em	554	99
+ER-TrackerGreen	ex	372	100
+EthidiumHomodimer	em	513	98
+EthidiumHomodimer	ex	502	100
+eYFP	em	510	100
+eYFP	ex	488	100
+FastBlue	em	618	100
+FastBlue	ex	408	11
+FastBlue	ex	528	100
+FilmTracerCalceinRedOrange	em	754	100
+FilmTracerCalceinRedOrange	ex	361	48
+FilmTracerCalceinRedOrange	ex	610	97
+FilmTracerCalceinRedOrange	ex	663	100
+FilmTracerCalceinViolet	em	592	100
+FilmTracerCalceinViolet	ex	575	100
+FITC	em	452	100
+FITC	ex	401	100
+FixableViabilityDyeeFluor450	em	518	100
+FixableViabilityDyeeFluor450	ex	498	100
+FixableViabilityDyeeFluor455UV	em	445	100
+FixableViabilityDyeeFluor455UV	ex	405	100
+FixableViabilityDyeeFluor506	em	455	100
+FixableViabilityDyeeFluor506	ex	347	100
+FixableViabilityDyeeFluor520	em	504	100
+FixableViabilityDyeeFluor520	ex	410	84
+FixableViabilityDyeeFluor660	em	523	100
+FixableViabilityDyeeFluor660	ex	321	15
+FixableViabilityDyeeFluor660	ex	493	100
+FixableViabilityDyeeFluor780	em	660	99
+FixableViabilityDyeeFluor780	ex	643	100
+FlAsH	em	785	100
+FlAsH	ex	753	100
+Fluo-3 (CalciumBound)	em	533	99
+Fluo-3 (CalciumBound)	ex	510	100
+Fluo-4 (CalciumBound)	em	528	100
+Fluo-4 (CalciumBound)	ex	507	100
+FluoroMyelinGreenFluorescentMyelin	em	516	100
+FluoroMyelinGreenFluorescentMyelin	ex	493	100
+FluoroMyelinRedFluorescentMyelin	em	579	100
+FluoroMyelinRedFluorescentMyelin	ex	472	100
+FluoSpheresBlueFluorescentMicrospheres	em	728	100
+FluoSpheresBlueFluorescentMicrospheres	ex	344	36
+FluoSpheresBlueFluorescentMicrospheres	ex	506	100
+FluoSpheresCrimsonFluorescentMicrospheres	em	413	100
+FluoSpheresCrimsonFluorescentMicrospheres	ex	357	100
+FluoSpheresDarkRedFluorescentMicrospheres	em	647	100
+FluoSpheresDarkRedFluorescentMicrospheres	ex	620	100
+FluoSpheresNileRedFluorescentMicrospheres	em	683	100
+FluoSpheresNileRedFluorescentMicrospheres	em	791	11
+FluoSpheresNileRedFluorescentMicrospheres	ex	509	17
+FluoSpheresNileRedFluorescentMicrospheres	ex	656	100
+FluoSpheresOrangeFluorescentMicrospheres	em	638	100
+FluoSpheresOrangeFluorescentMicrospheres	ex	537	100
+FluoSpheresRedFluorescentMicrospheres	em	560	100
+FluoSpheresRedFluorescentMicrospheres	ex	540	100
+FluoSpheresYellowGreenFluorescentMicrospheres	em	608	100
+FluoSpheresYellowGreenFluorescentMicrospheres	ex	408	15
+FluoSpheresYellowGreenFluorescentMicrospheres	ex	577	100
+FluxORRed	em	514	100
+FluxORRed	ex	502	99
+FluxORThalliumIndicator	em	575	100
+FluxORThalliumIndicator	ex	553	100
+FM1-43	em	523	100
+FM1-43	ex	492	100
+FM2-10	em	579	100
+FM2-10	ex	472	100
+FM4-64	em	608	100
+FM4-64	ex	484	100
+FM5-95	em	728	100
+FM5-95	ex	344	36
+FM5-95	ex	506	100
+FocalCheckBlueRing	em	772	100
+FocalCheckBlueRing	em	791	99
+FocalCheckBlueRing	ex	362	18
+FocalCheckBlueRing	ex	386	14
+FocalCheckBlueRing	ex	526	100
+FocalCheckDarkRedRing	em	413	100
+FocalCheckDarkRedRing	ex	357	100
+GFP	em	683	100
+GFP	em	791	11
+GFP	ex	509	17
+GFP	ex	656	100
+GreenActin	em	508	100
+GreenActin	ex	488	100
+HCSCellMaskBlueStain	em	513	100
+HCSCellMaskBlueStain	ex	503	98
+HCSCellMaskDeepRedStain	em	444	100
+HCSCellMaskDeepRedStain	ex	346	100
+HCSCellMaskGreenStain	em	670	100
+HCSCellMaskGreenStain	ex	649	100
+HCSCellMaskOrangeStain	em	518	100
+HCSCellMaskOrangeStain	ex	307	22
+HCSCellMaskOrangeStain	ex	334	11
+HCSCellMaskOrangeStain	ex	493	100
+HCSCellMaskRedStain	em	565	100
+HCSCellMaskRedStain	em	603	45
+HCSCellMaskRedStain	ex	519	49
+HCSCellMaskRedStain	ex	550	100
+HCSLipidTOXDeepRed	em	614	100
+HCSLipidTOXDeepRed	ex	588	100
+HCSLipidTOXGreenNeutralLipid	em	651	100
+HCSLipidTOXGreenNeutralLipid	ex	635	100
+HCSLipidTOXGreenPhospholipidosisReagent	em	508	100
+HCSLipidTOXGreenPhospholipidosisReagent	ex	498	100
+HCSLipidTOXRedNeutralLipid	em	536	100
+HCSLipidTOXRedNeutralLipid	ex	504	100
+HCSLipidTOXRedPhospholipidosisReagent	em	616	100
+HCSLipidTOXRedPhospholipidosisReagent	ex	582	100
+HCSNuclearMaskBlueStain	em	609	100
+HCSNuclearMaskBlueStain	ex	584	100
+HCSNuclearMaskDeepRed	em	454	100
+HCSNuclearMaskDeepRed	ex	352	100
+HCSNuclearMaskRedStain	em	686	100
+HCSNuclearMaskRedStain	em	726	89
+HCSNuclearMaskRedStain	ex	600	86
+HCSNuclearMaskRedStain	ex	639	100
+Hoechst33258	em	645	100
+Hoechst33258	ex	322	14
+Hoechst33258	ex	622	100
+Hoechst33342	em	454	100
+Hoechst33342	ex	352	100
+HypoxiaGreen	em	454	100
+HypoxiaGreen	ex	352	100
+Image-iTDEADGreenViabilityStain	em	518	100
+Image-iTDEADGreenViabilityStain	ex	498	100
+Image-iTLipidPeroxidationSensor	em	509	100
+Image-iTLipidPeroxidationSensor	ex	490	100
+Indo-1 (CalciumBound)	em	522	25
+Indo-1 (CalciumBound)	em	548	23
+Indo-1 (CalciumBound)	em	598	100
+Indo-1 (CalciumBound)	em	639	29
+Indo-1 (CalciumBound)	ex	550	36
+Indo-1 (CalciumBound)	ex	588	100
+Indo-1 (CalciumFree)	em	403	100
+Indo-1 (CalciumFree)	ex	330	100
+JC-1	em	483	71
+JC-1	ex	346	100
+JOE	em	527	22
+JOE	em	595	100
+JOE	ex	498	82
+JOE	ex	589	86
+JOJO-1	em	549	100
+JOJO-1	ex	520	100
+KromeOrange	em	544	100
+KromeOrange	ex	529	100
+LDS751	em	537	100
+LDS751	ex	392	100
+LiveDeadFixableAqua	em	710	100
+LiveDeadFixableAqua	ex	408	27
+LiveDeadFixableAqua	ex	558	99
+LiveDeadFixableBlue	em	524	100
+LiveDeadFixableBlue	ex	367	100
+LiveDeadFixableFarRed	em	442	100
+LiveDeadFixableFarRed	ex	343	100
+LiveDeadFixableGreen	em	671	100
+LiveDeadFixableGreen	ex	650	100
+LiveDeadFixableLime	em	525	100
+LiveDeadFixableLime	ex	330	18
+LiveDeadFixableLime	ex	498	100
+LiveDeadFixableNIR780	em	504	100
+LiveDeadFixableNIR780	ex	410	100
+LiveDeadFixableNIR876	em	785	100
+LiveDeadFixableNIR876	ex	753	100
+LiveDeadFixableOlive	em	880	100
+LiveDeadFixableOlive	ex	439	23
+LiveDeadFixableOlive	ex	539	12
+LiveDeadFixableOlive	ex	838	100
+LiveDeadFixableOrange	em	564	100
+LiveDeadFixableOrange	ex	475	100
+LiveDeadFixableScarlet	em	603	100
+LiveDeadFixableScarlet	ex	579	100
+LiveDeadFixableViolet	em	719	100
+LiveDeadFixableViolet	ex	696	100
+LiveDeadFixableYellow	em	455	100
+LiveDeadFixableYellow	ex	404	100
+LiveDeadNIR775	em	550	100
+LiveDeadNIR775	ex	401	100
+LuciferYellow	em	778	100
+LuciferYellow	ex	752	100
+LysoSensorBlue	em	543	100
+LysoSensorBlue	ex	346	23
+LysoSensorBlue	ex	427	100
+LysoSensorGreen	em	402	97
+LysoSensorGreen	em	425	100
+LysoSensorGreen	em	446	46
+LysoSensorGreen	ex	357	62
+LysoSensorGreen	ex	372	91
+LysoSensorGreen	ex	394	90
+LysoSensorYellowBlue (pH3.0)	em	504	100
+LysoSensorYellowBlue (pH3.0)	ex	447	100
+LysoSensorYellowBlue (pH9)	em	540	91
+LysoSensorYellowBlue (pH9)	ex	388	91
+LysoTrackerBlue	em	530	65
+LysoTrackerBlue	ex	334	100
+LysoTrackerDeepRed	em	402	90
+LysoTrackerDeepRed	em	422	100
+LysoTrackerDeepRed	em	446	49
+LysoTrackerDeepRed	ex	356	63
+LysoTrackerDeepRed	ex	372	97
+LysoTrackerDeepRed	ex	392	84
+LysoTrackerGreen	em	664	100
+LysoTrackerGreen	ex	351	36
+LysoTrackerGreen	ex	645	100
+LysoTrackerRed	em	510	100
+LysoTrackerRed	ex	498	97
+LysoTrackerYellowHCK-123	em	593	100
+LysoTrackerYellowHCK-123	ex	573	100
+Mag-fura-2	em	563	100
+Mag-fura-2	ex	357	21
+Mag-fura-2	ex	486	100
+MagnesiumGreen	em	504	100
+MagnesiumGreen	ex	337	100
+MarinaBlue	em	531	100
+MarinaBlue	ex	334	16
+MarinaBlue	ex	507	100
+mBanana	em	NA	NA
+mBanana	ex	330	18
+mBanana	ex	443	32
+mBanana	ex	629	100
+mHoneyDew	em	554	100
+mHoneyDew	ex	540	100
+MitoHealthStain	em	610	100
+MitoHealthStain	ex	585	100
+MItoProbeTMRM	em	535	99
+MItoProbeTMRM	em	561	100
+MItoProbeTMRM	ex	478	100
+MItoProbeTMRM	ex	502	92
+MitoSOXGreen	em	509	100
+MitoSOXGreen	ex	490	100
+MitoSOXRed	em	577	100
+MitoSOXRed	ex	552	100
+MitoTrackerDeepRedFM	em	518	100
+MitoTrackerDeepRedFM	ex	369	31
+MitoTrackerDeepRedFM	ex	455	100
+MitoTrackerDeepRedFM	ex	472	96
+MitoTrackerGreenFM	em	581	100
+MitoTrackerGreenFM	ex	357	52
+MitoTrackerGreenFM	ex	381	60
+MitoTrackerGreenFM	ex	499	100
+MitoTrackerRed	em	575	100
+MitoTrackerRed	ex	551	100
+MitoTrackerRedFM	em	513	100
+MitoTrackerRedFM	ex	490	100
+Monobromobimane (mBBr)	em	650	100
+Monobromobimane (mBBr)	ex	604	100
+Monochlorobimane (mBCI)	em	599	100
+Monochlorobimane (mBCI)	ex	312	18
+Monochlorobimane (mBCI)	ex	539	29
+Monochlorobimane (mBCI)	ex	578	100
+mOrange	em	489	100
+mOrange	ex	395	100
+mPlum	em	484	100
+mPlum	ex	389	100
+mRaspberry	em	562	100
+mRaspberry	ex	548	100
+mScarlet	em	648	100
+mScarlet	ex	588	100
+mTangerine	em	625	100
+mTangerine	ex	598	100
+Naphthofluorescein	em	594	100
+Naphthofluorescein	ex	570	100
+NBD	em	585	100
+NBD	ex	568	100
+NeuroTrace435_455BlueFluorescentNisslStain	em	673	100
+NeuroTrace435_455BlueFluorescentNisslStain	ex	360	37
+NeuroTrace435_455BlueFluorescentNisslStain	ex	422	27
+NeuroTrace435_455BlueFluorescentNisslStain	ex	599	100
+NeuroTrace515_535YellowFluorescentNisslStain	em	537	100
+NeuroTrace515_535YellowFluorescentNisslStain	ex	334	38
+NeuroTrace515_535YellowFluorescentNisslStain	ex	467	100
+NeuroTrace530_615RedFluorescentNisslStain	em	458	100
+NeuroTrace530_615RedFluorescentNisslStain	ex	432	100
+NeuroTrace640_660DeepRedFluorescentNisslStain	em	533	100
+NeuroTrace640_660DeepRedFluorescentNisslStain	ex	513	100
+NileBlue	em	618	100
+NileBlue	ex	408	11
+NileBlue	ex	528	100
+NileRed (phospholipid)	em	661	100
+NileRed (phospholipid)	ex	340	14
+NileRed (phospholipid)	ex	642	100
+NileRed (triglyceride)	em	661	99
+NileRed (triglyceride)	ex	325	17
+NileRed (triglyceride)	ex	630	100
+NovaFluorBlue510	em	638	100
+NovaFluorBlue510	ex	552	100
+NovaFluorBlue530	em	585	100
+NovaFluorBlue530	ex	510	100
+NovaFluorBlue555	em	513	100
+NovaFluorBlue555	ex	492	100
+NovaFluorBlue585	em	528	100
+NovaFluorBlue585	ex	508	100
+NovaFluorBlue610-30S	em	510	28
+NovaFluorBlue610-30S	em	555	100
+NovaFluorBlue610-30S	ex	493	100
+NovaFluorBlue610-30S	ex	537	42
+NovaFluorBlue610-70S	em	512	29
+NovaFluorBlue610-70S	em	586	100
+NovaFluorBlue610-70S	ex	492	100
+NovaFluorBlue660-120S	em	527	19
+NovaFluorBlue660-120S	em	615	100
+NovaFluorBlue660-120S	ex	508	100
+NovaFluorBlue660-120S	ex	555	15
+NovaFluorBlue660-120S	ex	598	51
+NovaFluorBlue660-40S	em	510	16
+NovaFluorBlue660-40S	em	616	100
+NovaFluorBlue660-40S	ex	492	100
+NovaFluorBlue660-40S	ex	555	13
+NovaFluorBlue660-40S	ex	598	44
+NovaFluorBlue690	em	510	26
+NovaFluorBlue690	em	666	100
+NovaFluorBlue690	ex	492	100
+NovaFluorBlue690	ex	605	15
+NovaFluorBlue690	ex	651	64
+NovaFluorBlue725	em	527	29
+NovaFluorBlue725	em	664	100
+NovaFluorBlue725	ex	508	100
+NovaFluorBlue725	ex	605	19
+NovaFluorBlue725	ex	650	79
+NovaFluorBlue760	em	509	23
+NovaFluorBlue760	em	582	22
+NovaFluorBlue760	em	688	100
+NovaFluorBlue760	ex	494	87
+NovaFluorBlue760	ex	620	28
+NovaFluorBlue760	ex	672	100
+NovaFluorBlue800	em	511	59
+NovaFluorBlue800	em	728	100
+NovaFluorBlue800	ex	493	100
+NovaFluorBlue800	ex	711	38
+NovaFluorRed660	em	509	19
+NovaFluorRed660	em	764	100
+NovaFluorRed660	ex	493	94
+NovaFluorRed660	ex	737	100
+NovaFluorRed685	em	510	14
+NovaFluorRed685	em	806	100
+NovaFluorRed685	ex	469	84
+NovaFluorRed685	ex	493	100
+NovaFluorRed685	ex	797	52
+NovaFluorRed700	em	660	100
+NovaFluorRed700	ex	636	100
+NovaFluorRed710	em	686	100
+NovaFluorRed710	ex	636	100
+NovaFluorRed725	em	700	100
+NovaFluorRed725	ex	637	100
+NovaFluorRed725	ex	676	63
+NovaFluorRed755	em	713	100
+NovaFluorRed755	ex	636	100
+NovaFluorRed755	ex	688	88
+NovaFluorUV765	em	656	22
+NovaFluorUV765	em	727	100
+NovaFluorUV765	ex	636	100
+NovaFluorUV765	ex	710	30
+NovaFluorViolet690	em	652	22
+NovaFluorViolet690	em	756	100
+NovaFluorViolet690	ex	636	100
+NovaFluorViolet690	ex	731	46
+NovaFluorViolet745	em	404	24
+NovaFluorViolet745	em	763	100
+NovaFluorViolet745	ex	356	85
+NovaFluorViolet745	ex	736	99
+NovaFluorViolet800	em	691	100
+NovaFluorViolet800	ex	407	56
+NovaFluorViolet800	ex	621	24
+NovaFluorViolet800	ex	675	100
+NovaFluorYellow570	em	743	100
+NovaFluorYellow570	ex	391	68
+NovaFluorYellow570	ex	497	13
+NovaFluorYellow570	ex	724	100
+NovaFluorYellow590	em	443	9
+NovaFluorYellow590	em	478	18
+NovaFluorYellow590	em	800	100
+NovaFluorYellow590	ex	407	50
+NovaFluorYellow590	ex	783	85
+NovaFluorYellow610	em	566	100
+NovaFluorYellow610	ex	519	55
+NovaFluorYellow610	ex	550	100
+NovaFluorYellow660	em	594	100
+NovaFluorYellow660	ex	566	100
+NovaFluorYellow690	em	565	14
+NovaFluorYellow690	em	614	100
+NovaFluorYellow690	ex	550	100
+NovaFluorYellow690	ex	597	20
+NovaFluorYellow700	em	564	18
+NovaFluorYellow700	em	664	100
+NovaFluorYellow700	ex	549	100
+NovaFluorYellow700	ex	650	29
+NovaFluorYellow730	em	564	20
+NovaFluorYellow730	em	690	100
+NovaFluorYellow730	ex	519	53
+NovaFluorYellow730	ex	550	100
+NovaFluorYellow730	ex	671	55
+NovaFluorYellow755	em	564	17
+NovaFluorYellow755	em	701	100
+NovaFluorYellow755	ex	519	53
+NovaFluorYellow755	ex	550	100
+NovaFluorYellow755	ex	679	51
+NovaFluorYellow810	em	591	39
+NovaFluorYellow810	em	730	100
+NovaFluorYellow810	ex	383	13
+NovaFluorYellow810	ex	551	100
+NovaFluorYellow810	ex	710	49
+OrangeActin	em	589	30
+OrangeActin	em	754	100
+OrangeActin	ex	551	100
+OrangeActin	ex	731	68
+OregonGreen488	em	513	100
+OregonGreen488	ex	503	98
+OregonGreen488BAPTA	em	569	16
+OregonGreen488BAPTA	em	813	100
+OregonGreen488BAPTA	ex	518	65
+OregonGreen488BAPTA	ex	550	100
+OregonGreen488BAPTA	ex	807	37
+OregonGreen514	em	524	100
+OregonGreen514	ex	493	100
+PacificBlue	em	525	100
+PacificBlue	ex	330	18
+PacificBlue	ex	498	100
+PacificGreen	em	532	100
+PacificGreen	ex	333	11
+PacificGreen	ex	513	100
+PacificOrange	em	455	100
+PacificOrange	ex	404	100
+PE	em	622	100
+PE	ex	496	58
+PE	ex	567	100
+PE-AlexaFluor610	em	573	17
+PE-AlexaFluor610	em	696	100
+PE-AlexaFluor610	ex	493	87
+PE-AlexaFluor610	ex	562	100
+PE-AlexaFluor610	ex	625	13
+PE-AlexaFluor610	ex	680	50
+PE-AlexaFluor680	em	804	100
+PE-AlexaFluor680	ex	375	14
+PE-AlexaFluor680	ex	495	72
+PE-AlexaFluor680	ex	564	98
+PE-AlexaFluor680	ex	785	67
+PE-AlexaFluor700	em	574	25
+PE-AlexaFluor700	em	626	100
+PE-AlexaFluor700	ex	303	16
+PE-AlexaFluor700	ex	372	13
+PE-AlexaFluor700	ex	496	67
+PE-AlexaFluor700	ex	564	98
+PE-AlexaFluor700	ex	610	17
+PE-CF594	em	574	18
+PE-CF594	em	702	100
+PE-CF594	ex	344	16
+PE-CF594	ex	371	15
+PE-CF594	ex	498	69
+PE-CF594	ex	568	100
+PE-CF594	ex	685	60
+PE-Cy5	em	614	100
+PE-Cy5	ex	495	55
+PE-Cy5	ex	564	100
+PE-Cy5.5	em	578	23
+PE-Cy5.5	em	722	100
+PE-Cy5.5	ex	499	65
 PE-Cy5.5	ex	564	100
-PE-Cy5.5	ex	677	22
-PE-Cy7	em	577	44
-PE-Cy7	em	780	100
-PE-Cy7	ex	498	63
-PE-Cy7	ex	568	100
-PE-Cy7	ex	757	52
-PE-Dazzle594	em	613	100
-PE-Dazzle594	ex	307	11
-PE-Dazzle594	ex	495	56
-PE-Dazzle594	ex	565	100
-PE-eFluor610	em	606	100
-PE-eFluor610	ex	306	12
-PE-eFluor610	ex	498	63
-PE-eFluor610	ex	565	100
-PE-Fire640	em	641	100
-PE-Fire640	ex	495	64
-PE-Fire640	ex	567	100
-PE-Fire640	ex	622	32
-PE-Fire700	em	572	17
-PE-Fire700	em	696	100
-PE-Fire700	ex	492	89
-PE-Fire700	ex	562	100
-PE-Fire700	ex	624	14
-PE-Fire700	ex	680	50
-PE-Fire810	em	804	100
-PE-Fire810	ex	380	14
-PE-Fire810	ex	495	72
-PE-Fire810	ex	565	100
-PE-Fire810	ex	785	67
-PE-Texas Red	em	562	25
-PE-Texas Red	em	614	100
-PE-Texas Red	ex	307	17
-PE-Texas Red	ex	373	13
-PE-Texas Red	ex	496	67
-PE-Texas Red	ex	566	100
-PE-Texas Red	ex	611	17
-PE-Vio615	em	623	100
-PE-Vio615	ex	496	58
-PE-Vio615	ex	567	100
-PE-Vio770	em	781	100
-PE-Vio770	ex	495	57
-PE-Vio770	ex	567	100
-PE-Vio770	ex	754	77
-PerCP	em	675	100
-PerCP	ex	441	89
+PE-Cy5.5	ex	699	57
+PE-Cy7	em	575	23
+PE-Cy7	em	692	100
+PE-Cy7	ex	373	12
+PE-Cy7	ex	498	69
+PE-Cy7	ex	563	100
+PE-Cy7	ex	677	22
+PE-Dazzle594	em	501	100
+PE-Dazzle594	ex	412	100
+PE-eFluor610	em	667	100
+PE-eFluor610	ex	305	12
+PE-eFluor610	ex	498	68
+PE-eFluor610	ex	568	100
+PE-eFluor610	ex	614	27
+PE-eFluor610	ex	644	44
+PE-Fire640	em	550	100
+PE-Fire640	ex	401	100
+PE-Fire700	em	613	100
+PE-Fire700	ex	304	11
+PE-Fire700	ex	495	56
+PE-Fire700	ex	564	100
+PE-Fire810	em	641	100
+PE-Fire810	ex	494	64
+PE-Fire810	ex	566	100
+PE-Fire810	ex	622	32
+PE-TexasRed	em	578	44
+PE-TexasRed	em	780	100
+PE-TexasRed	ex	498	63
+PE-TexasRed	ex	568	100
+PE-TexasRed	ex	757	52
+PE-Vio615	em	606	100
+PE-Vio615	ex	303	11
+PE-Vio615	ex	498	63
+PE-Vio615	ex	563	99
+PE-Vio770	em	563	25
+PE-Vio770	em	614	100
+PE-Vio770	ex	303	16
+PE-Vio770	ex	372	13
+PE-Vio770	ex	496	67
+PE-Vio770	ex	564	98
+PE-Vio770	ex	610	17
+PerCP	em	677	71
+PerCP	em	708	100
+PerCP	ex	442	88
 PerCP	ex	482	100
-PerCP	ex	673	28
-PerCP-Cy5.5	em	679	100
-PerCP-Cy5.5	ex	488	100
-PerCP-Cy5.5	ex	515	98
-PerCP-Cy5.5	ex	631	30
-PerCP-Cy5.5	ex	674	90
-PerCP-Fire780	em	775	100
-PerCP-Fire780	ex	441	89
-PerCP-Fire780	ex	482	100
-PerCP-Fire780	ex	674	51
-PerCP-Fire780	ex	754	72
-PerCP-Fire806	em	803	100
-PerCP-Fire806	ex	444	87
-PerCP-Fire806	ex	483	100
-PerCP-Fire806	ex	674	34
-PerCP-Fire806	ex	785	79
-PerCP-Vio700	em	677	100
-PerCP-Vio700	em	707	87
-PerCP-Vio700	ex	311	20
-PerCP-Vio700	ex	443	81
-PerCP-Vio700	ex	486	100
-PerCP-Vio700	ex	634	23
-PerCP-Vio700	ex	674	71
-PicoGreen reagent	em	522	100
-PicoGreen reagent	ex	367	11
-PicoGreen reagent	ex	502	100
-PO-PRO-1	em	457	100
-PO-PRO-1	ex	434	100
-PO-PRO-3	em	570	100
-PO-PRO-3	ex	539	100
+PerCP	ex	637	14
+PerCP	ex	676	45
+PerCP-Cy5.5	em	774	100
+PerCP-Cy5.5	ex	442	89
+PerCP-Cy5.5	ex	482	100
+PerCP-Cy5.5	ex	674	51
+PerCP-Cy5.5	ex	696	35
+PerCP-Cy5.5	ex	753	72
+PerCP-Fire780	em	781	100
+PerCP-Fire780	ex	495	57
+PerCP-Fire780	ex	567	100
+PerCP-Fire780	ex	754	77
+PerCP-Fire806	em	575	100
+PerCP-Fire806	ex	304	10
+PerCP-Fire806	ex	498	69
+PerCP-Fire806	ex	563	99
+PerCP-Vio700	em	681	99
+PerCP-Vio700	ex	488	100
+PerCP-Vio700	ex	516	98
+PerCP-Vio700	ex	630	30
+PerCP-Vio700	ex	675	90
+PicoGreenReagent	em	678	100
+PicoGreenReagent	em	707	87
+PicoGreenReagent	ex	312	20
+PicoGreenReagent	ex	339	15
+PicoGreenReagent	ex	443	81
+PicoGreenReagent	ex	487	100
+PicoGreenReagent	ex	635	23
+PicoGreenReagent	ex	675	70
+PO-PRO-1	em	676	99
+PO-PRO-1	ex	442	88
+PO-PRO-1	ex	482	100
+PO-PRO-1	ex	672	28
+PO-PRO-3	em	523	100
+PO-PRO-3	ex	366	11
+PO-PRO-3	ex	502	100
 POPO-1	em	458	100
-POPO-1	ex	433	100
-POPO-3	em	573	100
-POPO-3	ex	533	100
-Premo Cameleon Calcium Sensor (calcium bound)	em	527	100
-Premo Cameleon Calcium Sensor (calcium bound)	ex	462	28
-Premo Cameleon Calcium Sensor (calcium bound)	ex	514	100
-Premo Cameleon Calcium Sensor (calcium free)	em	476	29
-Premo Cameleon Calcium Sensor (calcium free)	em	527	100
-Premo Cameleon Calcium Sensor (calcium free)	ex	514	100
-PrestoBlue	em	584	100
-PrestoBlue	ex	571	100
-Pro-Q Diamond	em	583	100
-Pro-Q Diamond	ex	368	11
-Pro-Q Diamond	ex	557	100
-Pro-Q Emerald300	em	531	100
-Pro-Q Emerald300	ex	332	67
-Propidium Iodide	em	617	100
-Propidium Iodide	ex	305	100
-Propidium Iodide	ex	537	17
-Qdot525	em	526	100
-Qdot525	ex	300	100
-Qdot545	em	543	100
-Qdot545	ex	300	100
-Qdot565	em	564	100
+POPO-1	ex	434	100
+POPO-3	em	570	100
+POPO-3	ex	539	100
+PremoCameleonCalciumSensor (CalciumBound)	em	458	100
+PremoCameleonCalciumSensor (CalciumBound)	ex	432	100
+PremoCameleonCalciumSensor (CalciumFree)	em	574	100
+PremoCameleonCalciumSensor (CalciumFree)	ex	533	100
+PrestoBlue	em	528	100
+PrestoBlue	ex	513	100
+Pro-QDiamond	em	478	29
+Pro-QDiamond	em	528	100
+Pro-QDiamond	ex	513	99
+Pro-QEmerald300	em	584	100
+Pro-QEmerald300	ex	569	99
+PropidiumIodide	em	583	100
+PropidiumIodide	ex	364	10
+PropidiumIodide	ex	557	100
+Qdot525	em	531	100
+Qdot525	ex	300	89
+Qdot545	em	617	100
+Qdot545	em	620	100
+Qdot545	ex	305	100
+Qdot545	ex	537	17
+Qdot565	em	526	100
 Qdot565	ex	300	100
-Qdot585	em	588	100
+Qdot585	em	543	100
 Qdot585	ex	300	100
-Qdot605	em	603	100
+Qdot605	em	564	100
 Qdot605	ex	300	100
-Qdot625	em	621	100
+Qdot625	em	589	100
 Qdot625	ex	300	100
-Qdot655	em	655	100
+Qdot655	em	604	100
 Qdot655	ex	300	100
-Qdot705	em	701	100
+Qdot705	em	622	100
 Qdot705	ex	300	100
-Qdot800	em	790	100
+Qdot800	em	655	100
 Qdot800	ex	300	100
-Qnuclear Deep Red stain	em	657	100
-Qnuclear Deep Red stain	ex	642	100
-quinine	em	461	100
-quinine	ex	319	82
-quinine	ex	349	100
-RealBlue 545 (RB545)	em	545	100
-RealBlue 545 (RB545)	ex	351	22
-RealBlue 545 (RB545)	ex	496	100
-RealBlue 545 (RB545)	ex	524	82
-RealBlue 780 (RB780)	em	523	19
-RealBlue 780 (RB780)	em	782	98
-RealBlue 780 (RB780)	ex	498	100
-RealBlue 780 (RB780)	ex	759	13
-RealYellow 586 (RY586)	em	587	100
-RealYellow 586 (RY586)	ex	355	15
-RealYellow 586 (RY586)	ex	565	100
-ReAsH	em	607	100
-ReAsH	ex	593	100
-Red Fluorescent Protein (RFP)	em	584	100
-Red Fluorescent Protein (RFP)	ex	554	100
-Resazurin	em	584	100
-Resazurin	ex	571	100
-Resorufin	em	584	100
-Resorufin	ex	571	100
-RH795	em	687	99
-RH795	ex	486	100
-Rhod-2 (calcium bound)	em	577	100
-Rhod-2 (calcium bound)	ex	553	100
-Rhod-5N (calcium bound)	em	580	100
-Rhod-5N (calcium bound)	ex	557	100
-Rhodamine 6G	em	547	100
-Rhodamine 6G	ex	525	100
-Rhodamine Green	em	524	100
-Rhodamine Green	ex	333	14
-Rhodamine Green	ex	497	100
-Rhodamine Red	em	591	100
-Rhodamine Red	ex	535	46
-Rhodamine Red	ex	573	100
-Rhodamine110	em	520	100
-Rhodamine110	ex	333	12
-Rhodamine110	ex	497	100
-Rhodamine123	em	529	100
-Rhodamine123	ex	507	100
-ROX (carboxy-X-rhodamine)	em	603	100
-ROX (carboxy-X-rhodamine)	ex	370	11
-ROX (carboxy-X-rhodamine)	ex	578	100
-SBFI (sodium bound)	em	526	100
-SBFI (sodium bound)	ex	337	100
-SBFI (sodium free)	em	556	37
-SBFI (sodium free)	ex	341	23
-SNARF 1 @ pH 6	em	587	100
-SNARF 1 @ pH 6	ex	381	31
-SNARF 1 @ pH 6	ex	517	95
-SNARF 1 @ pH 6	ex	549	100
-SNARF 1 @ pH 9	em	640	100
-SNARF 1 @ pH 9	ex	399	17
-SNARF 1 @ pH 9	ex	576	100
-Spark Blue515	em	511	100
-Spark Blue515	ex	490	100
-Spark Blue574	em	573	100
-Spark Blue574	ex	331	30
-Spark Blue574	ex	505	100
-Spark NIR685	em	684	100
-Spark NIR685	ex	669	100
-Spark Red718	em	712	100
-Spark Red718	ex	365	13
-Spark Red718	ex	649	43
-Spark Red718	ex	697	100
-Spark Violet423	em	414	100
-Spark Violet423	ex	378	78
-Spark Violet423	ex	400	100
-Spark Violet500	em	502	100
-Spark Violet500	ex	392	100
-Spark Violet538	em	536	100
-Spark Violet538	ex	393	100
-Spark YG570	em	563	100
-Spark YG570	ex	513	39
-Spark YG570	ex	547	99
-Spark YG593	em	593	100
-Spark YG593	ex	541	82
-Spark YG593	ex	575	100
-Sulforhodamine101	em	593	100
-Sulforhodamine101	ex	314	15
-Sulforhodamine101	ex	540	27
-Sulforhodamine101	ex	578	100
-SuperBright436	em	431	100
-SuperBright436	em	459	50
-SuperBright436	ex	414	100
-SuperBright600	em	600	100
-SuperBright600	ex	413	100
-SuperBright600	ex	549	14
-SuperBright600	ex	585	24
-SuperBright645	em	645	100
-SuperBright645	ex	414	100
-SuperBright645	ex	628	25
-SuperBright702	em	431	50
-SuperBright702	em	457	26
-SuperBright702	em	702	100
-SuperBright702	ex	413	100
-SuperBright702	ex	683	23
-SuperBright780	em	432	68
-SuperBright780	em	459	36
-SuperBright780	em	780	100
-SuperBright780	ex	412	100
-SuperBright780	ex	755	32
-SYBR 14	em	520	100
-SYBR 14	ex	489	100
-SYBR Gold	em	539	100
-SYBR Gold	ex	496	100
-SYBR Green	em	521	100
-SYBR Green	ex	370	13
-SYBR Green	ex	497	100
-SYBR Safe	em	525	100
-SYBR Safe	ex	509	100
-SYPRO Orange protein gel stain	em	584	100
-SYPRO Orange protein gel stain	ex	491	100
-SYPRO Ruby protein gel stain	em	631	100
-SYPRO Ruby protein gel stain	ex	468	100
-SYTO 11	em	525	100
-SYTO 11	ex	507	100
-SYTO 13	em	506	100
-SYTO 13	ex	488	100
-SYTO 14	em	525	100
-SYTO 14	ex	507	100
-SYTO 16	em	520	100
-SYTO 16	ex	489	100
-SYTO 17	em	637	100
-SYTO 17	ex	332	16
-SYTO 17	ex	619	100
-SYTO 40	em	375	17
-SYTO 40	em	447	100
-SYTO 40	ex	423	100
-SYTO 41	em	374	11
-SYTO 41	em	453	100
-SYTO 41	ex	425	100
-SYTO 42	em	376	30
-SYTO 42	em	472	100
-SYTO 42	ex	436	100
-SYTO 43	em	473	100
-SYTO 43	ex	442	100
-SYTO 44	em	386	26
-SYTO 44	em	477	100
-SYTO 44	ex	449	100
-SYTO 45	em	486	99
-SYTO 45	ex	451	100
-SYTO 59	em	644	100
-SYTO 59	ex	322	14
-SYTO 59	ex	622	100
-SYTO 60	em	681	100
-SYTO 60	ex	650	100
-SYTO 61	em	651	100
-SYTO 61	ex	618	100
-SYTO 62	em	681	100
-SYTO 62	ex	650	100
-SYTO 80	em	613	100
-SYTO 80	ex	536	100
-SYTO 81	em	554	100
-SYTO 81	ex	498	75
-SYTO 81	ex	536	100
-SYTO 82	em	559	100
-SYTO 82	ex	540	100
-SYTO 83	em	567	100
-SYTO 83	em	696	19
-SYTO 83	ex	543	100
-SYTO 84	em	646	100
-SYTO 84	ex	568	100
-SYTO 85	em	590	100
-SYTO 85	ex	569	100
-SYTO 9	em	500	100
-SYTO 9	ex	483	100
-SYTOX AADvanced	em	646	100
-SYTOX AADvanced	ex	547	100
-SYTOX Blue	em	470	100
-SYTOX Blue	ex	445	100
-SYTOX Deep Red	em	680	100
-SYTOX Deep Red	ex	613	36
-SYTOX Deep Red	ex	660	100
-SYTOX Orange	em	570	100
-SYTOX Orange	ex	547	100
-SYTOX Red	em	658	100
-SYTOX Red	ex	641	100
-TAMRA TRITC	em	578	100
-TAMRA TRITC	ex	552	100
-tdTomato	em	581	100
-tdTomato	ex	555	100
-TetraSpeck blue dye	em	442	100
-TetraSpeck blue dye	ex	350	100
-TetraSpeck orange dye	em	560	100
-TetraSpeck orange dye	ex	540	100
-Texas Red	em	613	100
-Texas Red	ex	551	32
-Texas Red	ex	595	100
-ThiolTracker Violet	em	527	100
-ThiolTracker Violet	ex	406	100
-TO-PRO-1	em	531	100
-TO-PRO-1	ex	515	100
-TO-PRO-3	em	657	100
-TO-PRO-3	ex	642	101
-Total ROS Assay 520 nm	em	517	100
-Total ROS Assay 520 nm	ex	498	100
-TOTO-1	em	531	100
-TOTO-1	ex	514	100
-TOTO-3	em	661	100
-TOTO-3	ex	341	14
-TOTO-3	ex	642	100
-TRI-COLOR	em	671	100
-TRI-COLOR	ex	499	63
-TRI-COLOR	ex	566	100
-TRI-COLOR	ex	651	89
-Tubulin Tracker Deep Red	em	676	100
-Tubulin Tracker Deep Red	ex	653	100
-V500	em	502	100
-V500	ex	436	100
-ViewRNA Fast Blue	em	753	100
-ViewRNA Fast Blue	ex	343	47
-ViewRNA Fast Blue	ex	361	48
-ViewRNA Fast Blue	ex	610	97
-ViewRNA Fast Blue	ex	628	95
-ViewRNA Fast Blue	ex	663	100
-ViewRNA Fast Red	em	674	100
-ViewRNA Fast Red	ex	311	14
-ViewRNA Fast Red	ex	365	11
-ViewRNA Fast Red	ex	536	99
-ViewRNA Fast Red	ex	572	100
-VioBlue	em	450	100
-VioBlue	ex	402	100
-VioGreen	em	526	100
-VioGreen	ex	386	100
-Violet membrane asymmetry probe (F2N12S)	em	571	100
-Violet membrane asymmetry probe (F2N12S)	ex	421	100
-Vybrant DyeCycle Green	em	533	100
-Vybrant DyeCycle Green	ex	506	100
-Vybrant DyeCycle Orange	em	563	100
-Vybrant DyeCycle Orange	ex	518	100
-Vybrant DyeCycle Ruby	em	686	100
-Vybrant DyeCycle Ruby	em	725	89
-Vybrant DyeCycle Ruby	ex	603	87
-Vybrant DyeCycle Ruby	ex	638	100
-Vybrant DyeCycle Violet	em	436	100
-Vybrant DyeCycle Violet	ex	370	100
-X-Rhod-1 (calcium bound)	em	602	100
-X-Rhod-1 (calcium bound)	ex	544	40
-X-Rhod-1 (calcium bound)	ex	580	100
-X-Rhod-5F (calcium bound)	em	607	100
-X-Rhod-5F (calcium bound)	ex	582	100
-Xylanase substrate	em	450	100
-Xylanase substrate	ex	358	100
-Yeast vacuole membrane marker (MDY-64)	em	498	100
-Yeast vacuole membrane marker (MDY-64)	ex	458	100
-YFP	em	529	100
-YFP	ex	514	100
-YO-PRO-1	em	507	100
-YO-PRO-1	ex	491	100
-YO-PRO-3	em	629	100
-YO-PRO-3	ex	613	100
-YOYO-1	em	508	100
-YOYO-1	ex	490	100
-YOYO-3	em	631	100
-YOYO-3	ex	311	14
-YOYO-3	ex	612	101
-Zombie Aqua	em	510	100
-Zombie Aqua	ex	382	100
-Zombie B550	em	536	100
-Zombie B550	ex	516	100
-Zombie Green	em	515	100
-Zombie Green	ex	312	22
-Zombie Green	ex	491	100
-Zombie R685	em	684	100
-Zombie R685	ex	669	100
-Zombie R718	em	713	100
-Zombie R718	ex	363	13
-Zombie R718	ex	697	100
-Zombie Red	em	624	100
-Zombie Red	ex	558	36
-Zombie Red	ex	600	100
-Zombie UV	em	456	100
-Zombie UV	ex	360	100
-Zombie Violet	em	422	100
-Zombie Violet	ex	378	88
-Zombie Violet	ex	400	100
-Zombie Yellow	em	572	100
-Zombie Yellow	ex	396	100
-Zombie YG581	em	582	99
-Zombie YG581	ex	525	31
-Zombie YG581	ex	564	100
-AmCyan	em	497	100
-AmCyan	ex	467	100
-APC-Alexa Fluor700	em	698	99
-APC-Alexa Fluor700	ex	622	85
-APC-Alexa Fluor700	ex	657	99
-Apotracker Green	em	510	100
-Apotracker Green	ex	500	99
+QnuclearDeepRedStain	em	701	100
+QnuclearDeepRedStain	ex	300	100
+Quinine	em	791	100
+Quinine	ex	300	100
+RealBlue545	em	657	100
+RealBlue545	ex	642	100
+RealBlue780	em	NA	NA
+RealBlue780	ex	330	28
+RealBlue780	ex	660	100
+RealYellow586	em	NA	NA
+RealYellow586	ex	329	35
+RealYellow586	ex	475	100
+ReAsH	em	NA	NA
+ReAsH	ex	561	100
+Resazurin	em	462	100
+Resazurin	ex	320	82
+Resazurin	ex	349	100
+Resorufin	em	545	100
+Resorufin	ex	348	23
+Resorufin	ex	496	100
+Resorufin	ex	524	82
+RFP	em	NA	NA
+RFP	ex	305	18
+RFP	ex	562	100
+RH795	em	523	19
+RH795	em	782	98
+RH795	ex	498	100
+RH795	ex	759	13
+Rhod-2 (CalciumBound)	em	587	100
+Rhod-2 (CalciumBound)	ex	354	15
+Rhod-2 (CalciumBound)	ex	564	100
+Rhod-5N (CalciumBound)	em	607	100
+Rhod-5N (CalciumBound)	ex	593	100
+Rhodamine110	em	585	100
+Rhodamine110	ex	554	100
+Rhodamine123	em	584	100
+Rhodamine123	ex	569	99
+Rhodamine6G	em	584	100
+Rhodamine6G	ex	569	99
+RhodamineGreen	em	689	100
+RhodamineGreen	ex	489	100
+RhodamineRed	em	576	100
+RhodamineRed	ex	553	100
+ROX (carboxy-X-rhodamine)	em	580	100
+ROX (carboxy-X-rhodamine)	ex	556	100
+SBFI (sodiumBound)	em	520	100
+SBFI (sodiumBound)	ex	334	12
+SBFI (sodiumBound)	ex	497	100
+SBFI (sodiumFree)	em	529	100
+SBFI (sodiumFree)	ex	507	100
+SNARF1@PH6	em	547	100
+SNARF1@PH6	ex	526	100
+SNARF1@PH9	em	524	100
+SNARF1@PH9	ex	333	14
+SNARF1@PH9	ex	497	100
+SparkBlue515	em	591	100
+SparkBlue515	ex	535	46
+SparkBlue515	ex	573	100
+SparkBlue574	em	525	100
+SparkBlue574	ex	336	100
+SparkNIR685	em	557	37
+SparkNIR685	ex	338	23
+SparkRed718	em	587	100
+SparkRed718	ex	382	31
+SparkRed718	ex	518	96
+SparkRed718	ex	548	100
+SparkViolet423	em	511	100
+SparkViolet423	ex	489	100
+SparkViolet500	em	536	100
+SparkViolet500	ex	516	100
+SparkViolet538	em	572	100
+SparkViolet538	ex	311	28
+SparkViolet538	ex	329	29
+SparkViolet538	ex	505	100
+SparkYG570	em	685	100
+SparkYG570	ex	670	99
+SparkYG593	em	388	100
+SparkYG593	ex	315	60
+SparkYG593	ex	349	97
+Sulforhodamine101	em	414	100
+Sulforhodamine101	ex	375	74
+Sulforhodamine101	ex	400	100
+SuperBright436	em	503	100
+SuperBright436	ex	391	100
+SuperBright600	em	535	100
+SuperBright600	ex	396	99
+SuperBright645	em	564	99
+SuperBright645	ex	514	39
+SuperBright645	ex	546	100
+SuperBright702	em	582	99
+SuperBright702	ex	564	100
+SuperBright780	em	594	99
+SuperBright780	ex	540	82
+SuperBright780	ex	574	100
+SYBR14	em	594	100
+SYBR14	ex	309	13
+SYBR14	ex	539	27
+SYBR14	ex	578	100
+SYBRGold	em	432	100
+SYBRGold	em	460	50
+SYBRGold	ex	412	100
+SYBRGreen	em	600	100
+SYBRGreen	ex	412	100
+SYBRGreen	ex	550	14
+SYBRGreen	ex	585	24
+SYBRSafe	em	645	100
+SYBRSafe	ex	413	100
+SYBRSafe	ex	628	25
+SYPROOrangeProteinGelStain	em	431	50
+SYPROOrangeProteinGelStain	em	457	26
+SYPROOrangeProteinGelStain	em	702	100
+SYPROOrangeProteinGelStain	ex	412	100
+SYPROOrangeProteinGelStain	ex	683	23
+SYPRORubyProteinGelStain	em	432	68
+SYPRORubyProteinGelStain	em	457	36
+SYPRORubyProteinGelStain	em	780	100
+SYPRORubyProteinGelStain	ex	412	100
+SYPRORubyProteinGelStain	ex	755	32
+SYTO11	em	520	100
+SYTO11	ex	489	100
+SYTO13	em	539	100
+SYTO13	ex	496	100
+SYTO14	em	523	100
+SYTO14	ex	372	13
+SYTO14	ex	497	100
+SYTO16	em	525	100
+SYTO16	ex	508	100
+SYTO17	em	585	100
+SYTO17	ex	490	100
+SYTO40	em	633	99
+SYTO40	ex	468	100
+SYTO41	em	525	100
+SYTO41	ex	507	100
+SYTO42	em	506	100
+SYTO42	ex	488	100
+SYTO43	em	525	100
+SYTO43	ex	507	100
+SYTO44	em	519	100
+SYTO44	ex	488	100
+SYTO45	em	637	100
+SYTO45	ex	331	16
+SYTO45	ex	619	100
+SYTO59	em	373	16
+SYTO59	em	447	100
+SYTO59	ex	422	100
+SYTO60	em	373	11
+SYTO60	em	454	100
+SYTO60	ex	426	100
+SYTO61	em	373	30
+SYTO61	em	472	100
+SYTO61	ex	435	100
+SYTO62	em	473	100
+SYTO62	ex	359	23
+SYTO62	ex	441	100
+SYTO80	em	386	26
+SYTO80	em	478	100
+SYTO80	ex	448	100
+SYTO81	em	486	99
+SYTO81	ex	451	100
+SYTO82	em	645	100
+SYTO82	ex	322	14
+SYTO82	ex	622	100
+SYTO83	em	681	100
+SYTO83	ex	650	100
+SYTO84	em	651	100
+SYTO84	ex	618	100
+SYTO85	em	681	100
+SYTO85	ex	650	100
+SYTO9	em	613	100
+SYTO9	ex	536	100
+SYTOXAADvanced	em	554	100
+SYTOXAADvanced	ex	499	75
+SYTOXAADvanced	ex	536	100
+SYTOXBlue	em	560	100
+SYTOXBlue	ex	540	100
+SYTOXDeepRed	em	567	100
+SYTOXDeepRed	em	697	19
+SYTOXDeepRed	ex	543	100
+SYTOXOrange	em	590	100
+SYTOXOrange	ex	569	100
+SYTOXRed	em	500	100
+SYTOXRed	ex	482	100
+TAMRA TRITC	em	646	100
+TAMRA TRITC	ex	408	12
+TAMRA TRITC	ex	545	100
+tdTomato	em	470	100
+tdTomato	ex	445	100
+TetraSpeckBlue	em	681	100
+TetraSpeckBlue	ex	614	36
+TetraSpeckBlue	ex	660	100
+TetraSpeckOrange	em	524	100
+TetraSpeckOrange	ex	503	100
+TexasRed	em	570	100
+TexasRed	ex	548	100
+ThiolTrackerViolet	em	659	100
+ThiolTrackerViolet	ex	640	100
+TO-PRO-1	em	577	100
+TO-PRO-1	ex	552	100
+TO-PRO-3	em	581	100
+TO-PRO-3	ex	554	100
+TotalROSAssay520Nm	em	442	100
+TotalROSAssay520Nm	ex	350	100
+TOTO-1	em	560	100
+TOTO-1	ex	540	100
+TOTO-3	em	614	99
+TOTO-3	ex	555	31
+TOTO-3	ex	594	100
+TRI-COLOR	em	525	100
+TRI-COLOR	ex	406	100
+TubulinTrackerDeepRed	em	532	100
+TubulinTrackerDeepRed	ex	514	100
+V500	em	518	100
+V500	ex	498	100
+ViewRNAFastBlue	em	533	100
+ViewRNAFastBlue	ex	513	100
+ViewRNAFastRed	em	661	100
+ViewRNAFastRed	ex	340	14
+ViewRNAFastRed	ex	642	100
+VioBlue	em	671	100
+VioBlue	ex	499	63
+VioBlue	ex	566	100
+VioBlue	ex	651	89
+VioGreen	em	676	100
+VioGreen	ex	653	100
+VioletMembraneAsymmetryProbe (F2N12S)	em	449	100
+VioletMembraneAsymmetryProbe (F2N12S)	ex	415	100
+VybrantDyeCycleGreen	em	502	100
+VybrantDyeCycleGreen	ex	436	100
+VybrantDyeCycleOrange	em	754	100
+VybrantDyeCycleOrange	ex	361	48
+VybrantDyeCycleOrange	ex	610	97
+VybrantDyeCycleOrange	ex	663	100
+VybrantDyeCycleRuby	em	676	100
+VybrantDyeCycleRuby	ex	537	99
+VybrantDyeCycleRuby	ex	572	100
+VybrantDyeCycleViolet	em	449	100
+VybrantDyeCycleViolet	ex	402	100
+X-Rhod-1 (CalciumBound)	em	525	100
+X-Rhod-1 (CalciumBound)	ex	386	100
+X-Rhod-5F (CalciumBound)	em	572	100
+X-Rhod-5F (CalciumBound)	ex	421	100
+XylanaseSubstrate	em	533	100
+XylanaseSubstrate	ex	506	100
+YeastVacuoleMembraneMarker (MDY-64)	em	562	100
+YeastVacuoleMembraneMarker (MDY-64)	ex	518	100
+YFP	em	686	100
+YFP	em	726	89
+YFP	ex	600	86
+YFP	ex	639	100
+YO-PRO-1	em	436	100
+YO-PRO-1	ex	371	100
+YO-PRO-3	em	602	100
+YO-PRO-3	ex	544	40
+YO-PRO-3	ex	579	100
+YOYO-1	em	607	100
+YOYO-1	ex	583	100
+YOYO-3	em	451	100
+YOYO-3	ex	358	100
+ZombieAqua	em	499	100
+ZombieAqua	ex	346	17
+ZombieAqua	ex	456	100
+ZombieB550	em	530	100
+ZombieB550	ex	513	100
+ZombieGreen	em	508	100
+ZombieGreen	ex	491	100
+ZombieR685	em	509	100
+ZombieR685	ex	490	100
+ZombieR718	em	631	100
+ZombieR718	ex	309	14
+ZombieR718	ex	612	101
+ZombieRed	em	511	99
+ZombieRed	ex	381	99
+ZombieUV	em	536	100
+ZombieUV	ex	516	100
+ZombieViolet	em	515	100
+ZombieViolet	ex	312	22
+ZombieViolet	ex	491	100
+ZombieYellow	em	746	100
+ZombieYellow	ex	719	99
+ZombieYG581	em	685	100
+ZombieYG581	ex	670	99
+AmCyan	em	499	100
+AmCyan	ex	468	99
+APC-AlexaFluor700	em	699	99
+APC-AlexaFluor700	ex	621	85
+APC-AlexaFluor700	ex	657	99
+ApotrackerGreen	em	510	100
+ApotrackerGreen	ex	500	99
 ATTO390	em	475	100
+ATTO390	ex	318	11
 ATTO390	ex	390	100
 ATTO425	em	485	100
 ATTO425	ex	439	100
-ATTO465	em	505	100
+ATTO465	em	506	100
 ATTO465	ex	453	100
 ATTO488	em	521	99
 ATTO488	ex	309	17
@@ -1344,23 +1371,24 @@ ATTO633	ex	309	14
 ATTO633	ex	630	100
 ATTO647N	em	664	100
 ATTO647N	ex	319	13
-ATTO647N	ex	598	27
+ATTO647N	ex	599	27
 ATTO647N	ex	646	100
 ATTO680	em	697	100
-ATTO680	ex	680	100
-Brilliant Violet750	em	449	40
-Brilliant Violet750	em	747	100
-Brilliant Violet750	ex	407	99
-Brilliant Violet750	ex	727	22
-Calcein Red AM	em	576	100
-Calcein Red AM	ex	303	41
-Calcein Red AM	ex	563	100
-Cascade Yellow	em	549	100
-Cascade Yellow	ex	399	100
+ATTO680	ex	681	100
+BrilliantViolet750	em	449	40
+BrilliantViolet750	em	747	100
+BrilliantViolet750	ex	408	100
+BrilliantViolet750	ex	727	22
+CalceinRedAM	em	576	100
+CalceinRedAM	ex	303	41
+CalceinRedAM	ex	563	100
+CascadeYellow	em	548	99
+CascadeYellow	ex	399	100
 Cy5	em	664	99
+Cy5	ex	601	33
 Cy5	ex	645	99
-Cytophase Violet	em	444	100
-Cytophase Violet	ex	368	100
+CytophaseViolet	em	444	100
+CytophaseViolet	ex	368	100
 DRAQ5	em	678	100
 DRAQ5	ex	305	42
 DRAQ5	ex	597	100
@@ -1369,170 +1397,178 @@ DRAQ7	em	676	100
 DRAQ7	ex	305	42
 DRAQ7	ex	598	100
 DRAQ7	ex	644	82
-DsRed Express	em	588	100
-DsRed Express	ex	484	38
-DsRed Express	ex	555	100
-dTomato	em	581	99
-dTomato	ex	555	99
+DsRedExpress	em	588	100
+DsRedExpress	ex	483	38
+DsRedExpress	ex	554	100
+dTomato	em	582	99
+dTomato	ex	554	99
 DyLight649	em	673	100
+DyLight649	ex	604	29
 DyLight649	ex	651	100
-eBFP	em	439	100
+eBFP	em	440	100
 eBFP	ex	380	100
 eCFP	em	477	100
-eCFP	em	503	90
-eCFP	ex	435	100
-eCFP	ex	451	96
-eFluor520 Fixable Viability	em	521	99
-eFluor520 Fixable Viability	ex	321	14
-eFluor520 Fixable Viability	ex	493	99
+eCFP	em	502	90
+eCFP	ex	437	99
+eFluor520FixableViability	em	522	99
+eFluor520FixableViability	ex	322	14
+eFluor520FixableViability	ex	493	99
+eFluor565	em	559	98
 eFluor565	em	561	99
 eFluor565	ex	302	89
+eFluor565	ex	310	70
 eFluor565	ex	551	11
-eFluor605	em	605	98
+eFluor605	em	604	98
 eFluor605	ex	301	98
 eFluor650	em	654	98
-eFluor650	ex	303	98
+eFluor650	ex	305	99
 eFluor700	em	680	100
 eFluor700	ex	300	100
-Endoplasmic Reticulum Probe Green	em	511	100
-Endoplasmic Reticulum Probe Green	ex	503	100
-Endoplasmic Reticulum Probe Red	em	620	100
-Endoplasmic Reticulum Probe Red	ex	588	100
-Flash Phalloidin Green488	em	520	100
-Flash Phalloidin Green488	ex	495	100
-Flash Phalloidin NIR647	em	666	100
-Flash Phalloidin NIR647	ex	647	100
-Flash Phalloidin Red594	em	611	100
-Flash Phalloidin Red594	ex	551	34
-Flash Phalloidin Red594	ex	591	100
-Helix NP Blue	em	470	100
-Helix NP Blue	ex	431	100
-Helix NP Green	em	525	100
-Helix NP Green	ex	504	100
-Helix NP NIR	em	657	100
-Helix NP NIR	ex	638	100
-JC-10 Mitochondria Kit	em	524	100
-JC-10 Mitochondria Kit	ex	508	100
-KIRAVIA Blue 520	em	517	100
-KIRAVIA Blue 520	ex	495	100
-LIVE_DEAD Fixable Red	em	613	100
-LIVE_DEAD Fixable Red	ex	555	31
-LIVE_DEAD Fixable Red	ex	595	100
-Lysosome Probe Deep Red	em	619	100
-Lysosome Probe Deep Red	ex	596	100
-Lysosome Probe Green	em	509	100
-Lysosome Probe Green	ex	500	100
-Lysosome Probe NIR	em	650	100
-Lysosome Probe NIR	ex	636	100
-Lysosome Probe Orange	em	565	100
-Lysosome Probe Orange	ex	543	100
-Lysosome Probe Red	em	596	100
-Lysosome Probe Red	ex	576	100
+EndoplasmicReticulumProbeGreen	em	511	100
+EndoplasmicReticulumProbeGreen	ex	503	100
+EndoplasmicReticulumProbeRed	em	620	100
+EndoplasmicReticulumProbeRed	ex	588	100
+FlashPhalloidinGreen488	em	520	100
+FlashPhalloidinGreen488	ex	495	100
+FlashPhalloidinNIR647	em	666	100
+FlashPhalloidinNIR647	ex	648	100
+FlashPhalloidinRed594	em	611	100
+FlashPhalloidinRed594	ex	550	34
+FlashPhalloidinRed594	ex	590	100
+HelixNPBlue	em	470	100
+HelixNPBlue	ex	431	100
+HelixNPGreen	em	525	100
+HelixNPGreen	ex	504	100
+HelixNPNIR	em	657	100
+HelixNPNIR	ex	638	100
+JC-10MitochondriaKit	em	524	100
+JC-10MitochondriaKit	ex	508	100
+KIRAVIABlue520	em	517	100
+KIRAVIABlue520	ex	495	100
+LiveDeadFixableRed	em	613	100
+LiveDeadFixableRed	ex	550	31
+LiveDeadFixableRed	ex	595	100
+LysosomeProbeDeepRed	em	619	100
+LysosomeProbeDeepRed	ex	596	100
+LysosomeProbeGreen	em	509	100
+LysosomeProbeGreen	ex	500	100
+LysosomeProbeNIR	em	650	100
+LysosomeProbeNIR	ex	636	100
+LysosomeProbeOrange	em	565	100
+LysosomeProbeOrange	ex	543	100
+LysosomeProbeRed	em	596	100
+LysosomeProbeRed	ex	576	100
 mCherry	em	610	100
-mCherry	ex	344	23
-mCherry	ex	366	12
+mCherry	ex	343	23
 mCherry	ex	586	100
-MitoSpy Green FM	em	511	100
-MitoSpy Green FM	ex	486	100
-MitoSpy NIR-DilC1	em	658	100
-MitoSpy NIR-DilC1	ex	640	100
-MitoSpy Orange CMTMRos	em	576	100
-MitoSpy Orange CMTMRos	ex	553	100
-MitoSpy Red CMXRos	em	600	100
-MitoSpy Red CMXRos	ex	578	100
-MitoTracker Orange	em	575	100
-MitoTracker Orange	ex	305	15
-MitoTracker Orange	ex	551	100
-NADH	em	464	99
+MitoSpyGreenFM	em	512	100
+MitoSpyGreenFM	ex	486	100
+MitoSpyNIR-DilC1	em	658	100
+MitoSpyNIR-DilC1	ex	638	100
+MitoSpyOrangeCMTMRos	em	576	100
+MitoSpyOrangeCMTMRos	ex	553	100
+MitoSpyRedCMXRos	em	600	100
+MitoSpyRedCMXRos	ex	543	25
+MitoSpyRedCMXRos	ex	578	100
+MitoTrackerOrange	em	575	100
+MitoTrackerOrange	ex	304	15
+MitoTrackerOrange	ex	551	100
+NADH	em	466	99
 NADH	ex	340	99
 PE-Fire744	em	572	35
 PE-Fire744	em	742	99
 PE-Fire744	ex	380	14
-PE-Fire744	ex	494	70
+PE-Fire744	ex	495	70
 PE-Fire744	ex	565	100
-PE-Fire744	ex	663	23
+PE-Fire744	ex	664	23
 PE-Fire744	ex	722	45
-PerCP-eFluor710	em	677	70
+PerCP-eFluor710	em	678	70
 PerCP-eFluor710	em	709	99
+PerCP-eFluor710	ex	310	24
 PerCP-eFluor710	ex	441	88
-PerCP-eFluor710	ex	483	99
+PerCP-eFluor710	ex	482	99
 PerCP-eFluor710	ex	639	14
-PerCP-eFluor710	ex	674	45
-redFluor710	em	705	100
-redFluor710	ex	687	99
-Riboflavin	em	531	100
-Riboflavin	ex	445	26
-Spark Blue488	em	516	100
-Spark Blue488	ex	308	20
-Spark Blue488	ex	333	11
-Spark Blue488	ex	492	100
-Spark Blue550	em	537	100
-Spark Blue550	ex	318	12
-Spark Blue550	ex	391	13
-Spark Blue550	ex	516	100
-Spark Plus B550	em	537	100
-Spark Plus B550	ex	316	13
-Spark Plus B550	ex	389	13
-Spark Plus B550	ex	516	100
-Spark Plus UV395	em	388	100
-Spark Plus UV395	em	408	90
-Spark Plus UV395	ex	355	100
-Spark UV387	em	389	100
-Spark UV387	ex	314	61
-Spark UV387	ex	343	100
-Spark UV387	ex	354	99
-Spark YG581	em	582	99
-Spark YG581	ex	528	31
-Spark YG581	ex	564	100
-StarBright Blue700	em	705	100
-StarBright Blue700	ex	320	65
-StarBright Blue700	ex	400	53
-StarBright Blue700	ex	471	100
-StarBright UV575	em	569	100
-StarBright UV575	ex	340	100
-StarBright UV740	em	735	99
-StarBright UV740	ex	342	100
-StarBright UV795	em	792	100
-StarBright UV795	ex	340	100
-StarBright Violet440	em	436	100
-StarBright Violet440	em	464	41
-StarBright Violet440	em	496	12
-StarBright Violet440	ex	383	100
-StarBright Violet515	em	516	100
-StarBright Violet515	ex	402	100
-StarBright Violet610	em	607	100
-StarBright Violet610	ex	402	100
-StarBright Violet670	em	667	100
-StarBright Violet670	ex	400	100
-SYTOX Green	em	524	100
-SYTOX Green	ex	304	14
-SYTOX Green	ex	504	100
-Tag-it Violet	em	456	100
-Tag-it Violet	ex	390	100
+PerCP-eFluor710	ex	675	45
+RedFluor710	em	705	100
+RedFluor710	ex	686	100
+Riboflavin	em	533	99
+Riboflavin	ex	348	25
+Riboflavin	ex	444	26
+SparkBlue488	em	516	100
+SparkBlue488	ex	308	20
+SparkBlue488	ex	333	11
+SparkBlue488	ex	492	100
+SparkBlue550	em	537	100
+SparkBlue550	ex	318	12
+SparkBlue550	ex	392	13
+SparkBlue550	ex	516	100
+SparkPlusB550	em	537	100
+SparkPlusB550	ex	316	13
+SparkPlusB550	ex	389	13
+SparkPlusB550	ex	516	100
+SparkPlusUV395	em	388	100
+SparkPlusUV395	em	408	90
+SparkPlusUV395	ex	324	40
+SparkPlusUV395	ex	355	100
+SparkPlusUV395	ex	371	93
+SparkUV387	em	388	100
+SparkUV387	ex	314	61
+SparkUV387	ex	342	100
+SparkUV387	ex	354	99
+SparkYG581	em	582	99
+SparkYG581	ex	528	31
+SparkYG581	ex	564	100
+StarBrightBlue700	em	704	99
+StarBrightBlue700	ex	320	65
+StarBrightBlue700	ex	397	53
+StarBrightBlue700	ex	471	100
+StarBrightUV575	em	569	100
+StarBrightUV575	ex	340	100
+StarBrightUV740	em	735	99
+StarBrightUV740	ex	342	100
+StarBrightUV795	em	794	99
+StarBrightUV795	ex	340	100
+StarBrightViolet440	em	437	98
+StarBrightViolet440	em	464	41
+StarBrightViolet440	em	493	12
+StarBrightViolet440	ex	383	100
+StarBrightViolet440	ex	427	16
+StarBrightViolet515	em	516	100
+StarBrightViolet515	ex	401	99
+StarBrightViolet610	em	607	100
+StarBrightViolet610	ex	403	100
+StarBrightViolet670	em	666	99
+StarBrightViolet670	ex	400	100
+SYTOXGreen	em	524	100
+SYTOXGreen	ex	304	14
+SYTOXGreen	ex	504	100
+Tag-itViolet	em	456	100
+Tag-itViolet	ex	390	100
 TRITC	em	578	100
 TRITC	ex	552	100
 V450	em	450	99
-V450	ex	406	99
+V450	ex	314	11
+V450	ex	407	99
 Vio488	em	512	99
-Vio488	ex	489	99
+Vio488	ex	488	99
 Vio515	em	514	100
-Vio515	ex	490	99
+Vio515	ex	489	99
 Vio667	em	667	100
 Vio667	ex	645	100
-VioBright FITC	em	522	99
-VioBright FITC	ex	496	99
 VioBright515	em	514	100
-VioBright515	ex	489	99
+VioBright515	ex	488	99
 VioBright667	em	667	100
 VioBright667	ex	645	100
-violetFluor450	em	449	99
-violetFluor450	ex	404	99
-Zombie NIR	em	746	100
-Zombie NIR	ex	267	15
-Zombie NIR	ex	719	99
-Zombie UV387	em	389	100
-Zombie UV387	ex	314	61
-Zombie UV387	ex	343	100
-Zombie UV387	ex	354	99
-ZsGreen	em	515	100
+VioBrightFITC	em	522	99
+VioBrightFITC	ex	496	99
+VioletFluor450	em	449	99
+VioletFluor450	ex	403	99
+ZombieNIR	em	746	100
+ZombieNIR	ex	267	15
+ZombieNIR	ex	718	100
+ZombieUV387	em	388	100
+ZombieUV387	ex	314	61
+ZombieUV387	ex	342	100
+ZombieUV387	ex	354	99
+ZsGreen	em	514	100
 ZsGreen	ex	504	100
