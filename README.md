@@ -16,33 +16,30 @@ All raw data for those are in spectra.tsv.gz and em_ex_maxima.tsv.
 
     #> 
     #> 
-    #> |fluorochrome |  nm| ex| em|
-    #> |:------------|---:|--:|--:|
-    #> |PE-Dazzle594 | 300|  0|  0|
-    #> |PE-Dazzle594 | 301|  0|  0|
-    #> |PE-Dazzle594 | 302|  0|  0|
-    #> |PE-Dazzle594 | 303|  0|  0|
-    #> |PE-Dazzle594 | 304|  0|  0|
-    #> |PE-Dazzle594 | 305|  0|  0|
-    #> |PE-Dazzle594 | 306|  0|  0|
-    #> |PE-Dazzle594 | 307|  0|  0|
-    #> |PE-Dazzle594 | 308|  0|  0|
-    #> |PE-Dazzle594 | 309|  0|  0|
+    #> |fluorochrome |  nm|   em|    ex|
+    #> |:------------|---:|----:|-----:|
+    #> |PE-Dazzle594 | 545| 0.87| 81.85|
+    #> |PE-Dazzle594 | 546| 0.92| 82.57|
+    #> |PE-Dazzle594 | 547| 0.97| 83.29|
+    #> |PE-Dazzle594 | 548| 1.04| 83.97|
+    #> |PE-Dazzle594 | 549| 1.11| 84.61|
+    #> |PE-Dazzle594 | 550| 1.20| 85.16|
+    #> |PE-Dazzle594 | 551| 1.35| 85.80|
+    #> |PE-Dazzle594 | 552| 1.51| 86.46|
+    #> |PE-Dazzle594 | 553| 1.69| 87.12|
+    #> |PE-Dazzle594 | 554| 1.90| 87.91|
     #> 
     #> 
     #> |fluorochrome |type |  nm| norm_intensity|
     #> |:------------|:----|---:|--------------:|
-    #> |PE-Dazzle594 |em   | 501|            100|
-    #> |PE-Dazzle594 |ex   | 412|            100|
+    #> |PE-Dazzle594 |em   | 613|            100|
+    #> |PE-Dazzle594 |ex   | 307|             11|
+    #> |PE-Dazzle594 |ex   | 495|             56|
+    #> |PE-Dazzle594 |ex   | 565|            100|
 
 Peaks were detected by algorithm. This may either be oversensitive and
 detect too many of them or miss some. Plots were checked and only very
 few minor peaks are not detected. In very few spectra lowest emission
 peak is below lowest excitation which should not be according to [Stokes
-shift](https://en.wikipedia.org/wiki/Stokes_shift). Some spectra include
-negative values or values above 100 which is weird but data was left as
-obtained in this case. However, leading and trailing zeros were removed
-for instance.
-
-fluos.tsv is a table of all fluorochromes and a note whether a dye is
-used in flow cytometry.
+shift](https://en.wikipedia.org/wiki/Stokes_shift). fluos.tsv is a table
+of all fluorochromes and a note whether a dye is used in flow cytometry.
